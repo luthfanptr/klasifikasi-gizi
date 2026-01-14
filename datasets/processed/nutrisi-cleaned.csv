@@ -1,0 +1,1304 @@
+name,serving_size,energy_kcal,protein_g,carbohydrate_g,fat_g,sugar_g,sodium_mg,fiber_g,nutrition_score,label
+Marie duo,1 g,15.0,1.0,14.0,3.5,5.0,85.0,1.0,4.0,Kurang Sehat
+Kacang lebui / iris,3.60 g,346.0,16.5,66.6,1.5,0.0,17.0,37.3,3.0,Kurang Sehat
+Baked lotus paste mooncake with two egg yolks,0.85 g,223.0,4.05,20.5,13.79,0.0,0.0,0.85,1.5,Sehat
+Cumi-cumi,0.90 g,75.0,16.1,0.1,0.7,0.0,37.0,0.0,1.5,Sehat
+Kunyit,Tidak Diketahui,1.3,69.0,2.0,9.1,2.7,0.0,6.0,3.0,Kurang Sehat
+Coklat silverqueen almond,4 g,170.0,4.0,14.0,11.0,11.0,0.0,0.0,5.0,Tidak Sehat
+Daun gedi besar,Tidak Diketahui,2.4,58.0,2.9,10.0,0.7,0.0,30.0,3.0,Kurang Sehat
+Kopi hitam tanpa gula,0.28 g,2.0,0.28,0.09,0.05,0.0,0.0,0.0,0.0,Sehat
+Tumis keumamah,4.30 g,300.0,14.5,15.5,20.0,0.0,0.0,4.5,1.5,Sehat
+Regal Biskuit Marie,1 g,70.0,1.0,12.0,2.0,0.0,45.0,0.0,2.5,Kurang Sehat
+Teh hijau daun kering,5.60 g,300.0,28.3,53.6,4.8,0.0,60.0,9.6,3.0,Kurang Sehat
+Susu ultra milk rasa coklat 200 ml,6 g,160.0,6.0,24.0,4.0,0.0,45.0,0.0,3.0,Kurang Sehat
+Frisian flag putih (kental manis),1 g,140.0,1.0,23.0,4.0,19.0,0.0,0.0,3.0,Kurang Sehat
+Sedaap Kecap Manis,1 g,70.0,1.0,16.0,0.0,13.0,290.0,0.0,5.0,Tidak Sehat
+Outback steackhouse slow roasted prime rib,46 g,700.0,46.0,0.0,57.0,0.0,0.0,0.0,1.5,Sehat
+Es krim Diamond vanilla,2 g,110.0,2.0,12.0,6.0,9.0,0.0,0.0,2.5,Kurang Sehat
+Taoge kacang kedelai,Tidak Diketahui,1.0,76.0,9.0,6.4,2.6,0.0,5.0,3.0,Kurang Sehat
+Renggi Goreng,0.60 g,471.0,4.7,64.1,21.8,0.0,126.0,6.4,4.5,Tidak Sehat
+Saus Char siu (chinese BBQ),0 g,60.0,0.0,14.0,0.0,13.0,0.0,0.0,2.5,Kurang Sehat
+Daun kedongdong,Tidak Diketahui,1.8,59.0,3.5,13.4,0.3,0.0,12.0,0.5,Sehat
+Semur jengkol,2.20 g,212.0,6.0,29.1,10.0,0.0,0.0,0.0,2.0,Sehat
+Biokul natural set yogurt,5 g,70.0,5.0,10.0,1.0,3.0,0.0,0.0,1.5,Sehat
+Kambose,0.70 g,164.0,3.0,32.6,2.4,0.0,0.0,4.3,0.5,Sehat
+Sarden ABC saus tomat,12 g,100.0,12.0,9.0,2.0,2.0,0.0,0.0,1.5,Sehat
+Nasi gurih,1.30 g,190.0,4.7,26.0,7.5,0.0,296.0,0.7,4.5,Tidak Sehat
+You C100 Orange water,0 g,160.0,0.0,40.0,0.0,40.0,0.0,0.0,4.0,Kurang Sehat
+Diamond Milk Susu UHT Full Cream,6 g,120.0,6.0,10.0,6.0,0.0,100.0,0.0,1.5,Sehat
+Kacang tolo / tunggak,3.60 g,331.0,24.4,56.6,1.9,0.0,15.0,1.6,3.0,Kurang Sehat
+Keripik tempe abadi besar,2.80 g,556.0,15.8,39.8,37.1,0.0,0.0,3.5,2.0,Sehat
+Sunduk lawang,1 g,181.0,1.9,32.4,1.3,0.0,0.0,0.0,1.5,Sehat
+Susu Ultra Milk Rasa coklat 1000 ml,8 g,45.0,8.0,30.0,5.0,24.0,55.0,0.0,4.5,Tidak Sehat
+Padamaran,0.80 g,171.0,3.9,18.8,8.9,0.0,0.0,0.0,2.5,Kurang Sehat
+Karawila,0.30 g,25.0,2.3,3.5,0.2,0.0,8.0,2.1,1.5,Sehat
+Nutrisari Yuzu Orange,0 g,45.0,0.0,10.0,0.0,9.0,20.0,0.0,5.0,Tidak Sehat
+Kue bangen,2.20 g,442.0,3.3,74.2,14.7,0.0,0.0,0.0,3.0,Kurang Sehat
+Burger Carl's Jr the big carl,3 g,920.0,47.0,56.0,58.0,12.0,0.0,3.0,4.5,Tidak Sehat
+Coklat manis batang,4.10 g,527.0,2.0,62.7,29.8,0.0,6.0,6.5,2.0,Sehat
+Moon tahu,0.80 g,128.0,8.0,1.3,10.0,0.0,393.0,0.2,3.0,Kurang Sehat
+Bakwan,2.10 g,280.0,8.2,39.0,10.2,0.0,0.0,3.4,2.0,Sehat
+Roti boong,1 g,341.0,5.5,43.3,16.2,0.0,161.0,0.0,4.5,Tidak Sehat
+nestle honey star sereal,1 g,110.0,1.0,25.0,1.0,0.0,10.0,0.0,3.0,Kurang Sehat
+Es krim Wall's oreo chocolate,1 g,140.0,2.0,21.0,4.0,15.0,0.0,1.0,1.5,Sehat
+Onde-onde,0.60 g,336.0,4.0,57.9,9.8,0.0,0.0,0.0,3.0,Kurang Sehat
+Sarimi isi 2 ayam bawang,3 g,510.0,13.0,70.0,20.0,3.0,0.0,3.0,4.5,Tidak Sehat
+Mie Kuah Gaga 100 Xtra Pedas  Jalapeno,9 g,120.0,9.0,43.0,13.0,2.0,1320.0,0.0,6.0,Tidak Sehat
+Kin bulgarian style yogurt strawberry,4 g,35.0,4.0,29.0,3.5,27.0,50.0,0.0,5.5,Tidak Sehat
+Lumai / leunca,Tidak Diketahui,0.5,38.0,1.1,7.6,0.3,0.0,2.0,0.5,Sehat
+Keripik tempe abadi prima,2.60 g,540.0,16.7,42.0,33.9,0.0,0.0,2.2,2.0,Sehat
+Hokben Chicken karaage,25 g,340.0,25.0,15.0,20.5,0.0,0.0,0.0,1.5,Sehat
+Kwaci,3.70 g,515.0,30.6,13.8,42.1,0.0,124.0,13.6,4.0,Kurang Sehat
+Sawo duren,0.60 g,64.0,1.0,8.0,3.1,0.0,13.0,0.8,1.5,Sehat
+Subway Turkey breast sandwich,5 g,280.0,18.0,46.0,3.5,7.0,0.0,5.0,3.0,Kurang Sehat
+Qtela Tempe,4 g,110.0,4.0,8.0,7.0,0.0,0.0,0.0,1.5,Sehat
+Marie salut cokelat,1 g,90.0,1.0,13.0,3.5,6.0,35.0,0.0,5.0,Tidak Sehat
+Nabati HANSEL,2 g,70.0,2.0,7.0,4.0,5.0,30.0,0.0,5.0,Tidak Sehat
+Kacang panjang biji,0.40 g,357.0,17.3,68.6,1.5,0.0,16.0,10.6,3.0,Kurang Sehat
+Koro roay,3 g,344.0,12.5,69.4,2.1,0.0,18.0,7.5,3.0,Kurang Sehat
+Bolu peca,0.90 g,197.0,3.3,35.6,4.6,0.0,0.0,0.0,1.5,Sehat
+air putih / air mineral / air minum,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Mr. Bread Roti tawar gandum,2.50 g,199.0,7.0,36.0,3.0,2.0,487.0,2.5,5.5,Tidak Sehat
+Wingko babat,0.70 g,355.0,3.2,51.4,15.1,0.0,0.0,2.4,2.0,Sehat
+Permen frozz mint,0 g,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Daun kecipir,Tidak Diketahui,1.0,52.0,5.0,8.5,0.5,0.0,6.0,0.5,Sehat
+Frisian flag french vanilla low fat,7 g,110.0,7.0,16.0,2.5,16.0,110.0,0.0,4.0,Kurang Sehat
+Cumi-cumi goreng,3.10 g,265.0,40.6,0.0,10.1,0.0,86.0,0.0,4.0,Kurang Sehat
+Melinjo emping tipis goreng,1.50 g,485.0,11.5,59.1,24.5,0.0,0.0,0.0,2.0,Sehat
+Beef teriyaki,0.90 g,151.0,8.6,22.3,3.1,0.0,377.0,0.3,1.5,Sehat
+Saori Saus Tiram,0 g,5.0,0.0,2.0,0.0,0.0,290.0,0.0,2.5,Kurang Sehat
+Duwet,Tidak Diketahui,0.5,80.0,0.5,18.2,0.6,0.0,16.0,3.0,Kurang Sehat
+Mie Lemonilo ayam bawang,3 g,267.0,9.0,49.0,4.0,1.0,948.0,3.0,5.5,Tidak Sehat
+Coklat pahit batang,10.10 g,615.0,5.5,29.2,42.6,0.0,20.0,10.8,4.5,Tidak Sehat
+Supermi ayam Bawang,4 g,130.0,7.0,46.0,15.0,2.0,1030.0,4.0,6.0,Tidak Sehat
+Coco pops,1 g,120.0,2.0,26.0,0.5,12.0,0.0,1.0,2.0,Sehat
+Buah naga merah,Tidak Diketahui,0.4,71.0,1.7,9.1,3.1,0.0,10.0,3.0,Kurang Sehat
+Ampas tahu kukus,0.60 g,75.0,4.1,10.7,2.1,0.0,0.0,5.1,-1.0,Sehat
+Lepok / Ubi rumput,0.90 g,181.0,2.8,39.8,1.2,0.0,116.0,10.7,3.0,Kurang Sehat
+Permen mentos peppermint,0 g,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Pop mie kuah pedes dower,3 g,360.0,6.0,46.0,16.0,4.0,0.0,3.0,4.5,Tidak Sehat
+Ketimun madura,Tidak Diketahui,0.4,9.0,0.5,1.9,0.1,0.0,2.0,-1.0,Sehat
+Getuk goreng,1.50 g,360.0,1.3,74.3,6.4,0.0,0.0,0.8,2.0,Sehat
+Laksa/Putu mayang,0.60 g,121.0,1.7,21.1,3.4,0.0,0.0,0.0,0.0,Sehat
+Ultramilk law fat source of calcium,7 g,90.0,7.0,11.0,2.5,0.0,105.0,0.0,1.5,Sehat
+Kacang urei,3.30 g,354.0,12.8,69.3,1.8,0.0,1.0,26.1,0.5,Sehat
+Ganyong,Tidak Diketahui,0.9,77.0,0.6,18.4,0.2,0.0,0.0,0.5,Sehat
+Keju,5.30 g,326.0,22.8,13.1,20.3,0.0,1410.0,0.0,4.0,Kurang Sehat
+Sagu Lemak (Kue Sagon),0.70 g,452.0,2.8,76.8,14.8,0.0,182.0,1.1,4.5,Tidak Sehat
+Masekat,0.80 g,369.0,2.1,74.1,7.0,0.0,141.0,4.0,4.5,Tidak Sehat
+Coklat susu batang,1.40 g,565.0,9.0,53.6,35.0,0.0,100.0,3.4,4.5,Tidak Sehat
+Es teh manis,0.02 g,90.0,0.02,23.44,0.0,0.0,0.0,0.0,0.5,Sehat
+Keju cheddar,22.87 g,404.0,22.87,3.09,33.31,0.0,0.0,0.0,1.5,Sehat
+Sawo kecik,1.40 g,111.0,0.9,21.6,2.3,0.0,28.0,1.0,1.5,Sehat
+Keju kraft cheddar,4 g,70.0,4.0,2.0,5.0,0.0,0.0,0.0,0.0,Sehat
+Starbucks hot caffe mocha (notfat milk),13 g,250.0,13.0,42.0,2.5,0.0,0.0,0.0,0.5,Sehat
+Koya,0.80 g,366.0,4.2,77.5,4.3,0.0,0.0,0.8,0.5,Sehat
+Mi golosor,0.20 g,71.0,0.2,15.9,0.8,0.0,0.0,0.1,0.0,Sehat
+Good day cappuccino,1 g,170.0,1.0,32.0,3.5,25.0,0.0,1.0,3.0,Kurang Sehat
+Kacang bogor kering,3 g,370.0,16.0,65.0,6.0,0.0,44.0,26.3,3.0,Kurang Sehat
+Khong guan malkist seaweed,1 g,90.0,1.0,12.0,3.5,2.0,0.0,0.0,2.5,Kurang Sehat
+Daun bluntas,Tidak Diketahui,2.3,44.0,1.8,9.4,0.5,0.0,0.0,0.5,Sehat
+Pocari sweat,0 g,70.0,0.0,17.0,0.0,16.0,0.0,0.0,2.5,Kurang Sehat
+Starbucks iced caffe latte (wholemilk),8 g,120.0,8.0,13.0,7.0,0.0,0.0,0.0,0.5,Sehat
+Susu kental manis,1.80 g,343.0,8.2,55.0,10.0,0.0,150.0,0.0,4.5,Tidak Sehat
+Royco sup krim ayam,2 g,50.0,2.0,9.0,1.0,2.0,710.0,0.0,5.0,Tidak Sehat
+Snow skin lotus paste mooncake,1.16 g,187.0,2.12,26.36,8.04,0.0,0.0,1.16,2.0,Sehat
+Adem sari herbal lemon,0 g,60.0,0.0,16.0,0.0,14.0,65.0,0.0,5.0,Tidak Sehat
+Pucuk lumai / daun leunca,Tidak Diketahui,1.3,33.0,4.5,2.8,0.4,0.0,2.0,-1.0,Sehat
+Wortel rebus,0.40 g,28.0,0.7,6.3,0.5,0.0,41.0,0.8,1.5,Sehat
+Gekikara ramen 109 gram,6 g,160.0,9.0,74.0,18.0,4.0,1200.0,6.0,7.0,Tidak Sehat
+Kopi Indocafe coffemix 3 in 1,1 g,90.0,1.0,17.0,2.0,13.0,0.0,0.0,2.5,Kurang Sehat
+Sprite 390 ml,0 g,0.0,0.0,25.0,0.0,25.0,40.0,0.0,5.5,Tidak Sehat
+Nutri boost orange,2 g,170.0,2.0,37.0,1.5,0.0,180.0,0.0,4.0,Kurang Sehat
+Rempeyek kacang tanah,1.80 g,513.0,17.5,44.3,32.5,0.0,0.0,1.7,2.0,Sehat
+Kacang merah / banda,3.20 g,350.0,13.9,66.9,3.0,0.0,19.0,26.3,3.0,Kurang Sehat
+Mr. Bread Roti tawar choco chips,2 g,227.0,7.0,38.5,5.0,8.0,286.0,2.0,5.5,Tidak Sehat
+Royco kaldu sapi,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Frisian Flag kental manis kemasan ekonomis 560 gram,1 g,140.0,1.0,23.0,40.0,19.0,25.0,0.0,7.0,Tidak Sehat
+Starbucks iced caffe latte (notfat milk),8 g,90.0,8.0,13.0,0.0,0.0,0.0,0.0,-1.0,Sehat
+Starbucks hot caffe latte (notfat milk),13 g,130.0,13.0,20.0,0.0,0.0,0.0,0.0,-1.0,Sehat
+Tempe kedelai murni goreng,1.80 g,350.0,24.5,10.4,26.6,0.0,22.0,4.2,4.0,Kurang Sehat
+Chitato keripik kentang rasa original,1 g,100.0,1.0,12.0,5.0,0.0,60.0,0.0,2.5,Kurang Sehat
+Whiskey,0 g,250.0,0.0,0.1,0.0,0.0,0.0,0.0,1.0,Sehat
+Khong Guan Malkist abon,2 g,80.0,2.0,13.0,3.0,3.0,0.0,0.0,2.5,Kurang Sehat
+Oreo,1 g,140.0,1.0,21.0,6.0,11.0,0.0,1.0,1.5,Sehat
+kurma,20.53 g,282.0,2.45,75.03,0.39,0.0,2.0,7.99,0.5,Sehat
+Nopia spesial,1.30 g,387.0,5.3,74.3,7.6,0.0,0.0,0.3,2.0,Sehat
+Sedaap Tasty bakmi ayam geprek matah,6 g,190.0,14.0,81.0,21.0,2.0,870.0,6.0,7.0,Tidak Sehat
+Sate bandeng,3.10 g,283.0,12.1,20.9,16.8,0.0,543.0,2.0,4.0,Kurang Sehat
+Daun kemang,Tidak Diketahui,1.7,43.0,5.5,7.5,0.3,0.0,10.0,0.5,Sehat
+Saus sambal ABC,0 g,28.0,0.0,6.0,0.0,5.0,0.0,0.0,2.5,Kurang Sehat
+Coklat Hershey's kisses milk chocolate,0.10 g,22.0,0.3,2.8,1.3,2.6,0.0,0.1,2.5,Kurang Sehat
+Chitato fresh potato,1 g,110.0,1.0,12.0,6.0,0.0,0.0,0.0,0.0,Sehat
+Oncom ampas kacang hijau,1.70 g,376.0,14.9,65.7,6.0,0.0,0.0,12.3,0.5,Sehat
+good day mocacino,1 g,90.0,1.0,16.0,2.0,13.0,10.0,1.0,4.0,Kurang Sehat
+Lamtoro var. lokal dengan kulit,1.80 g,336.0,23.8,59.7,1.2,0.0,134.0,15.4,3.0,Kurang Sehat
+Teh botol sosro original,0 g,140.0,0.0,34.0,0.0,32.0,0.0,0.0,3.0,Kurang Sehat
+Daun leilem,Tidak Diketahui,1.8,76.0,2.8,15.8,0.2,0.0,6.0,0.5,Sehat
+Mcdonald Mc double,2 g,380.0,23.0,34.0,18.0,7.0,0.0,2.0,4.5,Tidak Sehat
+Keripik tempe abadi telur,2.90 g,529.0,20.8,40.2,31.7,0.0,0.0,3.0,2.0,Sehat
+Keripik tempe abadi sedang,3.10 g,510.0,12.3,52.4,27.9,0.0,0.0,3.6,2.0,Sehat
+Goodday Funtastic mocacinno,8 g,140.0,3.0,26.0,2.5,18.0,75.0,8.0,4.5,Tidak Sehat
+lovamil minuman khusus ibu hamil dan menyusui rasa kacang hijau,8 g,160.0,8.0,25.0,3.0,0.0,135.0,0.0,3.0,Kurang Sehat
+Wortel kukus,0.60 g,37.0,1.0,8.3,0.6,0.0,43.0,1.1,1.5,Sehat
+Mie bendo,0.20 g,353.0,0.3,88.0,0.0,0.0,9.0,2.4,3.0,Kurang Sehat
+Roma Marie Gold,2 g,90.0,2.0,15.0,3.0,4.0,0.0,0.0,2.5,Kurang Sehat
+Supermi Extra Mie Goreng rasa Ayam pangsit,10 g,510.0,10.0,70.0,21.0,0.0,1130.0,0.0,4.5,Tidak Sehat
+Buah mentega (Bisbul),Tidak Diketahui,0.4,39.0,0.7,9.7,0.2,0.0,1.0,0.5,Sehat
+Mie sedap instan goreng kriuk,8 g,160.0,9.0,57.0,18.0,6.0,1170.0,8.0,7.0,Tidak Sehat
+Ice Cone,0 g,190.0,5.0,32.0,4.5,24.0,0.0,0.0,3.0,Kurang Sehat
+TOPOKI Mujigae,11 g,410.0,11.0,78.0,7.0,0.0,1390.0,0.0,4.5,Tidak Sehat
+ABC EXO milk coffe,2 g,160.0,8.0,24.0,24.0,22.0,0.0,2.0,4.5,Tidak Sehat
+Starbucks butter croissant,1 g,260.0,5.0,27.0,15.0,5.0,0.0,1.0,4.5,Tidak Sehat
+Daun mengkudu,Tidak Diketahui,2.0,65.0,4.0,11.4,1.7,0.0,0.0,3.0,Kurang Sehat
+Sagu sinole,0.10 g,354.0,0.8,68.9,8.3,0.0,30.0,0.0,5.5,Tidak Sehat
+Nasi rames,0.60 g,155.0,10.3,19.1,4.2,0.0,265.0,0.0,1.5,Sehat
+MAESTRO MAYONAISE,0 g,90.0,0.0,2.0,9.0,0.0,210.0,0.0,4.0,Kurang Sehat
+Susu Ultra Milk Low Fat,7 g,90.0,7.0,11.0,2.5,0.0,105.0,0.0,1.5,Sehat
+Ikan Baronang,Tidak Diketahui,1.2,78.0,14.5,3.7,0.6,0.0,26.0,1.5,Sehat
+ROYCO BUMBU AYAM SAUS TELUR ASIN,1 g,30.0,1.0,2.0,1.5,0.0,50.0,0.0,2.5,Kurang Sehat
+Keju parmesan,28.42 g,420.0,28.42,13.91,27.84,0.0,0.0,0.0,1.5,Sehat
+Beras cerdas,2.60 g,350.0,2.7,82.3,1.1,0.0,358.0,6.2,3.0,Kurang Sehat
+Indomie Goreng Rasa Rendang,3 g,150.0,9.0,59.0,16.0,9.0,1060.0,3.0,6.0,Tidak Sehat
+Biokul plain yogurt,5 g,90.0,5.0,15.0,0.5,7.0,0.0,0.0,1.5,Sehat
+Mr. Bread Roti tawar kupas,1.50 g,119.0,4.5,21.5,2.0,1.0,209.0,1.5,4.0,Kurang Sehat
+Mcdonald Mcnugget,1 g,270.0,15.0,16.0,16.0,0.0,0.0,1.0,1.5,Sehat
+Teh Kotak Rasa Lemon,0 g,100.0,0.0,23.0,0.0,20.0,25.0,0.0,5.5,Tidak Sehat
+Jambu air,Tidak Diketahui,0.8,46.0,0.6,11.8,0.2,0.0,11.0,0.5,Sehat
+SUN Bubur Bayi,4 g,160.0,4.0,31.0,2.5,0.0,100.0,0.0,4.0,Kurang Sehat
+Getuk pisang,0.70 g,144.0,1.1,34.1,0.4,0.0,0.0,0.4,-0.5,Sehat
+Lupis ketan,0.60 g,164.0,1.8,34.5,2.1,0.0,0.0,0.7,0.5,Sehat
+Jambu monyet,Tidak Diketahui,0.3,64.0,0.7,15.8,0.6,0.0,12.0,3.0,Kurang Sehat
+Kacang goyang,1.50 g,516.0,14.7,44.4,31.1,0.0,2.0,0.0,2.0,Sehat
+Mie Sedaap Cup Mi Kuah Soto,7 g,370.0,8.0,48.0,16.0,2.0,1070.0,7.0,7.0,Tidak Sehat
+Nutricake Brownies Coklat,2 g,160.0,2.0,33.0,2.5,0.0,90.0,0.0,4.0,Kurang Sehat
+Starbucks caffe americano,1 g,15.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,Sehat
+vanhouten cocoa powder,6 g,120.0,6.0,15.0,4.0,0.0,0.0,0.0,-1.0,Sehat
+Bawang bombay,Tidak Diketahui,0.6,43.0,1.4,10.3,0.2,0.0,12.0,0.5,Sehat
+Tepung Arrowroot,0.30 g,355.0,0.7,85.2,0.2,0.0,2.0,0.4,0.5,Sehat
+Honey Stars,1 g,110.0,1.0,25.0,0.5,8.0,0.0,1.0,2.0,Sehat
+Bagea kw 1,0.60 g,416.0,6.5,76.3,9.4,0.0,0.0,0.4,2.0,Sehat
+Tepung Mocaf,1.30 g,350.0,1.2,85.0,0.6,0.0,8.0,6.0,3.0,Kurang Sehat
+Indomie mi rendang,3 g,420.0,9.0,59.0,16.0,9.0,0.0,3.0,4.5,Tidak Sehat
+Mangga harumanis,Tidak Diketahui,0.8,46.0,0.4,11.9,0.2,0.0,2.0,0.5,Sehat
+Origo coffe es kopi susu,6.23 g,191.0,6.23,25.88,7.22,20.51,0.0,0.0,4.5,Tidak Sehat
+Daun pare,Tidak Diketahui,1.6,49.0,2.7,8.4,1.0,0.0,7.0,3.0,Kurang Sehat
+Mie Sedaap instan white curry,2 g,360.0,8.0,50.0,14.0,3.0,840.0,2.0,7.0,Tidak Sehat
+Bantal,0.60 g,190.0,3.3,43.5,0.3,0.0,164.0,3.4,3.0,Kurang Sehat
+Sarimi Gelas Rasa Soto Ayam,2 g,60.0,3.0,16.0,7.0,2.0,940.0,2.0,5.5,Tidak Sehat
+MYTEA Teh Oolong 450 ml,0 g,0.0,0.0,18.0,0.0,0.0,20.0,0.0,2.5,Kurang Sehat
+Kuaci Rebo green tea,2 g,110.0,6.0,2.0,9.0,1.0,180.0,2.0,5.5,Tidak Sehat
+Nestle corn flakes,2 g,110.0,2.0,24.0,0.5,0.0,0.0,0.0,0.5,Sehat
+Mi ABC cup soto ayam,4 g,280.0,7.0,34.0,13.0,2.0,0.0,4.0,4.5,Tidak Sehat
+Kembang tahu,3.20 g,380.0,48.9,23.3,13.8,0.0,55.0,0.0,4.5,Tidak Sehat
+Kacang sukro,2.70 g,484.0,8.8,57.7,26.1,0.0,0.0,1.8,2.0,Sehat
+Susu dancow rasa coklat,5 g,160.0,5.0,23.0,6.0,0.0,100.0,0.0,3.0,Kurang Sehat
+Starbucks cappuccino (wholemilk),7 g,140.0,7.0,12.0,7.0,0.0,0.0,0.0,0.5,Sehat
+kopi seduh,0.74 g,5.0,0.74,0.42,0.0,0.0,0.0,0.0,0.0,Sehat
+Cornetto Silverqueen,2 g,110.0,3.0,28.0,12.0,18.0,50.0,2.0,6.0,Tidak Sehat
+Mie Lemonilo kari ayam,2 g,270.0,8.0,48.0,5.0,1.0,1036.0,2.0,5.5,Tidak Sehat
+Bamboe Bumbu Rawon,1 g,15.0,1.0,2.0,1.5,1.0,1020.0,1.0,4.0,Kurang Sehat
+Kacang mete/biji jambu monyet goreng,2.50 g,629.0,20.4,19.8,56.3,0.0,13.0,1.1,4.0,Kurang Sehat
+Kotiu hinela tawang nggole,1.90 g,46.0,2.2,6.0,1.5,0.0,316.0,3.8,1.5,Sehat
+Fruit Tea yuzu,0 g,220.0,0.0,54.0,0.0,50.0,0.0,0.0,4.0,Kurang Sehat
+yuzu tea,0 g,140.0,0.0,34.0,0.0,0.0,20.0,0.0,3.0,Kurang Sehat
+Keju Snow Brand Cheddar,5 g,100.0,5.0,2.0,8.0,0.0,360.0,0.0,3.0,Kurang Sehat
+Sonice Chicken nugget,16 g,250.0,16.0,14.0,14.0,0.0,0.0,0.0,1.5,Sehat
+KFC extra crispy paha bawah,10 g,170.0,10.0,5.0,12.0,0.0,0.0,0.0,1.5,Sehat
+SUPERIOR Bihun Jagung urai,6 g,250.0,0.0,61.0,0.0,0.0,30.0,6.0,3.0,Kurang Sehat
+Roti warna sawo matang,0.90 g,249.0,7.9,49.7,1.5,0.0,500.0,0.0,3.0,Kurang Sehat
+Paria putih kukus,0.60 g,16.0,0.8,3.4,0.2,0.0,4.0,1.2,-1.0,Sehat
+Daun jambu mente muda,Tidak Diketahui,0.7,78.0,4.6,16.2,0.5,0.0,14.0,0.5,Sehat
+Burger double whopper,2 g,900.0,48.0,49.0,58.0,11.0,0.0,2.0,4.5,Tidak Sehat
+Keripik tempe abadi murni,2.70 g,542.0,40.3,11.6,42.4,0.0,0.0,2.2,1.5,Sehat
+Kerupuk kemplang panggang,3 g,356.0,9.7,76.9,1.1,0.0,0.0,1.0,0.5,Sehat
+Woku ubi,1.10 g,143.0,3.1,15.0,7.8,0.0,353.0,7.0,3.0,Kurang Sehat
+Fox's Fruits,0 g,15.0,0.0,4.0,0.0,3.0,0.0,0.0,2.5,Kurang Sehat
+Keju greenfields ricotta,0 g,110.0,4.0,2.0,9.0,1.0,0.0,0.0,4.0,Kurang Sehat
+Indomie goreng Jumbo,31 g,560.0,21.0,80.0,13.0,13.0,0.0,31.0,4.5,Tidak Sehat
+Cimory Yogurt Squeeze Peach,2 g,70.0,2.0,11.0,2.0,0.0,60.0,0.0,2.5,Kurang Sehat
+Melinjo emping tebal goreng manis,2.30 g,439.0,10.0,65.7,16.4,0.0,0.0,0.0,2.0,Sehat
+Sagu lempeng,0.10 g,347.0,0.9,85.2,0.3,0.0,11.0,4.7,3.0,Kurang Sehat
+Bamboe soto daging,1 g,5.0,1.0,2.0,0.5,1.0,730.0,1.0,4.0,Kurang Sehat
+Saladstop Hail caesar w/o chicken,3.90 g,471.9,22.8,19.0,34.3,3.5,0.0,3.9,4.0,Kurang Sehat
+Masako Kaldu Ayam,0 g,0.0,0.0,0.0,0.0,0.0,610.0,0.0,2.5,Kurang Sehat
+Enting-enting gepuk hello kity,1 g,538.0,13.6,52.6,30.3,0.0,0.0,0.2,2.0,Sehat
+Cimory Fresh Milk Cashew,10 g,260.0,10.0,33.0,9.0,0.0,140.0,0.0,4.5,Tidak Sehat
+Outback steackhouse Victoria's Filet,53 g,320.0,53.0,0.0,12.0,0.0,0.0,0.0,1.5,Sehat
+Kereput,1 g,580.0,4.8,51.1,39.6,0.0,0.0,0.0,2.0,Sehat
+Kopi Indocafe cappuccino,2 g,110.0,2.0,19.0,3.0,14.0,0.0,0.0,2.5,Kurang Sehat
+Rambutan binjai,0.30 g,76.0,0.5,18.0,0.2,0.0,22.0,3.8,1.5,Sehat
+nestle sereal corn flakes,2 g,110.0,2.0,24.0,0.5,0.0,180.0,0.0,3.0,Kurang Sehat
+Yangko,0.40 g,254.0,3.0,58.1,1.1,0.0,0.0,0.8,0.5,Sehat
+Gurandil,1 g,218.0,0.5,48.5,2.5,0.0,0.0,3.1,0.5,Sehat
+Kapusa,1 g,158.0,4.4,27.8,3.2,0.0,104.0,5.3,2.0,Sehat
+Tumis bayam bersantan,0.60 g,48.0,1.4,2.6,4.2,0.0,0.0,0.5,-1.0,Sehat
+Dodol Banjarmasin,1.50 g,368.0,2.6,70.0,8.6,0.0,48.0,0.5,4.5,Tidak Sehat
+Mixed nut and Ham Mooncake,2.08 g,245.0,5.4,21.38,15.3,0.0,0.0,2.08,1.5,Sehat
+Good time double choc,2 g,30.0,1.0,11.0,3.5,4.0,80.0,2.0,4.0,Kurang Sehat
+Nestle Carnation (kental manis),1 g,100.0,1.0,17.0,3.0,16.0,0.0,0.0,2.5,Kurang Sehat
+Bagea kelapa asin,1.30 g,450.0,3.2,78.1,13.9,0.0,74.0,0.0,5.5,Tidak Sehat
+Yogurt greek heavenly blush honey,2 g,180.0,5.0,18.0,10.0,9.0,40.0,2.0,6.5,Tidak Sehat
+Mie gaga,9 g,330.0,9.0,45.0,13.0,0.0,240.0,0.0,4.5,Tidak Sehat
+Susu Ultra Rasa Strawberry,6 g,140.0,6.0,22.0,3.5,0.0,50.0,0.0,1.5,Sehat
+Coklat bubuk,15.40 g,311.0,8.0,48.9,4.0,0.0,0.0,32.6,0.5,Sehat
+Mcdonald Double cheeseburger,2 g,430.0,25.0,35.0,21.0,7.0,0.0,2.0,4.5,Tidak Sehat
+WRP on the go (cokelat),6 g,150.0,7.0,24.0,3.0,16.0,0.0,6.0,2.0,Sehat
+Ikan Gete goreng,12.60 g,267.0,23.1,0.2,19.4,0.0,590.0,0.0,4.0,Kurang Sehat
+Lemon pepper (classic wings),1 g,180.0,15.0,1.0,13.0,0.0,0.0,1.0,1.5,Sehat
+Kue jahe,1.30 g,425.0,1.6,84.6,8.8,0.0,0.0,1.2,2.0,Sehat
+Susu Ultra Milk Full cream (kotak),8 g,150.0,8.0,12.0,8.0,0.0,0.0,0.0,0.5,Sehat
+Kacang mete/biji jambu monyet,2 g,616.0,16.3,28.7,48.4,0.0,26.0,0.9,4.5,Tidak Sehat
+Qtela tempe original,4 g,70.0,4.0,8.0,7.0,0.0,125.0,0.0,4.0,Kurang Sehat
+Biji kopi,12.40 g,399.0,12.4,62.7,15.4,0.0,0.0,0.0,2.0,Sehat
+Super Bubur dengan kuah kari,3 g,35.0,3.0,36.0,3.5,1.0,720.0,0.0,5.5,Tidak Sehat
+Tepung hunkwe (pati kacang ijo),1 g,364.0,4.5,83.5,1.0,0.0,15.0,16.1,3.0,Kurang Sehat
+Bakso,12.41 g,202.0,12.41,7.58,13.16,0.0,478.0,0.0,4.0,Kurang Sehat
+Sirup Tropicana sirup slim sirup orange,0 g,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Bagea kw 2,1.10 g,382.0,0.3,87.2,3.5,0.0,0.0,0.9,0.5,Sehat
+Permen Mintz Duomint,0 g,0.0,0.0,2.0,0.0,2.0,0.0,0.0,2.5,Kurang Sehat
+Morin Mixed fruit Jam,0 g,0.0,0.0,11.0,0.0,9.0,0.0,0.0,2.5,Kurang Sehat
+.Heavenly Blush,4 g,90.0,2.0,15.0,2.5,5.0,0.0,4.0,1.5,Sehat
+Eskrim paddle pop choco magma,1 g,70.0,1.0,12.0,2.5,8.0,0.0,1.0,1.5,Sehat
+Susu ibu - ASI,0.20 g,62.0,1.5,7.0,3.2,0.0,15.0,0.0,2.5,Kurang Sehat
+Starbucks hot caffe latte (whole milk),12 g,230.0,12.0,19.0,12.0,0.0,0.0,0.0,1.5,Sehat
+Lays 14g,1 g,70.0,1.0,10.0,7.0,0.0,70.0,0.0,4.0,Kurang Sehat
+Starbucks java chip frappuccino (wholemilk),7 g,350.0,7.0,68.0,5.0,0.0,0.0,0.0,0.5,Sehat
+Bungkil kacang tanah,33.10 g,336.0,37.4,30.5,13.0,0.0,0.0,0.0,2.0,Sehat
+Daun kol sawi,Tidak Diketahui,0.7,22.0,2.1,3.6,0.5,0.0,19.0,-1.0,Sehat
+Biskuit choco mania,1 g,100.0,1.0,14.0,4.5,7.0,0.0,0.0,2.5,Kurang Sehat
+Putri selat,0.90 g,163.0,2.2,13.8,6.5,0.0,6.0,0.0,2.5,Kurang Sehat
+Yogurt greek yummy blueberry,8 g,140.0,8.0,19.0,3.5,10.0,65.0,0.0,4.0,Kurang Sehat
+Teh hitam daun kering,5.90 g,293.0,24.5,58.8,2.8,0.0,50.0,8.7,3.0,Kurang Sehat
+abc kopi susu,1 g,130.0,1.0,27.0,2.5,0.0,15.0,0.0,3.0,Kurang Sehat
+Es krim Aice coklat sundae,2 g,100.0,2.0,14.0,4.0,8.0,15.0,0.0,5.0,Tidak Sehat
+Bayam merah,Tidak Diketahui,2.2,41.0,2.2,6.3,0.8,0.0,20.0,3.0,Kurang Sehat
+Susu WRP loses weight coklat,2 g,220.0,14.0,27.0,6.0,20.0,0.0,2.0,3.0,Kurang Sehat
+ABC Kecap Asin,1 g,5.0,1.0,1.0,0.0,0.0,830.0,0.0,2.5,Kurang Sehat
+Buah naga putih,Tidak Diketahui,0.6,56.0,0.8,10.9,1.0,0.0,7.0,3.0,Kurang Sehat
+Kacang bogor segar,1 g,165.0,7.7,27.4,3.1,0.0,6.0,2.5,0.5,Sehat
+Chatime pearl milk tea,1 g,374.0,1.0,67.0,11.0,39.5,0.0,0.0,5.5,Tidak Sehat
+Aqua,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Bingka,0.60 g,273.0,5.3,39.1,10.6,0.0,0.0,0.0,2.0,Sehat
+Enting-enting wijen,3 g,565.0,18.2,36.8,38.4,0.0,0.0,1.9,2.0,Sehat
+Kool merah,Tidak Diketahui,0.9,29.0,1.4,5.3,0.2,0.0,28.0,-1.0,Sehat
+Oyek,0.70 g,351.0,0.9,84.9,0.9,0.0,5.0,4.3,0.5,Sehat
+Rujak aceh,0.90 g,82.0,0.4,19.7,0.3,0.0,0.0,2.4,-1.0,Sehat
+Keripik kemplang goreng,3.40 g,504.0,5.6,57.1,28.1,0.0,0.0,0.3,2.0,Sehat
+Bungkil kelapa,38 g,368.0,23.0,40.0,15.0,0.0,0.0,0.0,2.0,Sehat
+Bamboe soto ayam,1 g,10.0,1.0,2.0,1.0,1.0,850.0,1.0,4.0,Kurang Sehat
+Geplak Jahe,2.50 g,462.0,3.1,57.7,14.4,0.0,0.0,3.3,2.0,Sehat
+Dodol kedongdong,0.40 g,331.0,1.9,63.8,7.6,0.0,0.0,1.0,2.0,Sehat
+Ubi Cilembu,0.90 g,186.0,1.9,44.3,0.2,0.0,1.0,3.4,0.5,Sehat
+Bungkil biji karet,29.40 g,333.0,29.3,50.0,3.3,0.0,0.0,0.0,0.5,Sehat
+Monde Boromon Wafers rasa Vanila,2 g,60.0,1.0,16.0,7.0,7.0,60.0,2.0,5.5,Tidak Sehat
+Good Day Cappuccino With Cocoa Granule,1 g,110.0,1.0,21.0,2.5,17.0,10.0,1.0,4.0,Kurang Sehat
+Starbucks hot caramel macchiato (wholemilk),10 g,280.0,10.0,35.0,11.0,0.0,0.0,0.0,2.0,Sehat
+Soto kudus,Tidak Diketahui,1.7,38.0,3.6,1.8,2.3,0.0,0.0,1.5,Sehat
+Tahubaxo rebus,11 g,109.0,11.0,16.0,0.0,0.0,504.0,0.0,1.5,Sehat
+Meises coklat,2 g,120.0,0.0,20.0,4.0,16.0,0.0,2.0,1.5,Sehat
+Jeruk Kalamansi,Tidak Diketahui,0.4,39.0,0.3,8.9,0.3,0.0,3.0,0.5,Sehat
+Batar daan,0.70 g,107.0,2.2,19.6,2.2,0.0,200.0,0.0,2.5,Kurang Sehat
+Nasi Goreng,0.40 g,500.0,7.0,40.2,34.4,0.0,18.0,0.4,4.5,Tidak Sehat
+Baruasa,0.70 g,417.0,6.5,79.3,8.2,0.0,0.0,0.0,2.0,Sehat
+Omelet Mie Telur,14.30 g,500.7,14.3,54.5,24.3,0.0,1132.0,0.0,4.5,Tidak Sehat
+Saladstop Sunshine jakarta,15.10 g,556.6,45.2,50.7,26.6,18.1,988.8,15.1,7.0,Tidak Sehat
+Sarimi isi tongseng ayam,6 g,560.0,11.0,76.0,23.0,5.0,0.0,6.0,4.5,Tidak Sehat
+Susu Rasa Taro,5 g,130.0,5.0,18.0,4.0,14.0,60.0,0.0,4.0,Kurang Sehat
+Masako Daging Sapi,0 g,0.0,0.0,0.0,0.0,0.0,590.0,0.0,2.5,Kurang Sehat
+Koya mirasa,1.60 g,370.0,8.0,82.2,1.0,0.0,0.0,0.4,0.5,Sehat
+Sasa tepung bakso goreng,1 g,90.0,1.0,21.0,0.0,0.0,910.0,0.0,2.5,Kurang Sehat
+Mizone,0 g,45.0,0.0,11.0,0.0,11.0,0.0,0.0,2.5,Kurang Sehat
+Fillet o-fish,1.50 g,270.0,12.3,19.3,15.9,0.0,439.0,0.2,4.0,Kurang Sehat
+Monde Snack Gold,2 g,20.0,2.0,16.0,2.5,3.0,35.0,0.0,5.0,Tidak Sehat
+Mony Oats Dark Choco Flavour,0 g,50.0,0.0,7.0,20.0,4.0,15.0,0.0,6.5,Tidak Sehat
+Subway black forest ham sandwich,5 g,290.0,18.0,46.0,4.5,8.0,0.0,5.0,3.0,Kurang Sehat
+Tempe lamtoro var. gung dengan kuit,1.30 g,146.0,11.7,19.6,2.3,0.0,0.0,7.6,-1.0,Sehat
+Silky Pudding Taro Flavour,2 g,15.0,2.0,16.0,1.5,11.0,45.0,0.0,5.0,Tidak Sehat
+Niu Zuzu rasa coklat,2 g,120.0,2.0,22.0,3.0,18.0,110.0,0.0,5.0,Tidak Sehat
+Jeruk bali,Tidak Diketahui,0.5,48.0,0.6,12.4,0.2,0.0,21.0,0.5,Sehat
+Delfi ChaCha Peanut,3 g,160.0,3.0,17.0,8.0,0.0,10.0,0.0,5.0,Tidak Sehat
+Bihun goreng instan,0.70 g,381.0,6.1,80.3,3.9,0.0,928.0,0.0,3.0,Kurang Sehat
+Mie ayam,0.80 g,102.0,6.2,10.5,3.9,0.0,279.0,0.0,1.5,Sehat
+Nongshim Shin cup,10.90 g,309.0,10.9,46.8,6.0,1.9,0.0,0.0,3.0,Kurang Sehat
+Teh botol tawar,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Biji nangka / Biji salak,0.70 g,262.0,2.3,51.1,5.4,0.0,10.0,8.0,3.0,Kurang Sehat
+Emping (keripik melinjo),28 g,345.0,12.0,71.5,1.5,0.0,0.0,0.0,0.5,Sehat
+Soto bandung,Tidak Diketahui,1.8,42.0,3.9,2.8,1.7,0.0,0.0,1.5,Sehat
+Origo coffe avocado coffe,4.04 g,160.0,4.04,22.46,6.02,14.12,0.0,0.0,3.5,Kurang Sehat
+Subway sweet onion chicken teriyaki sandwich,5 g,370.0,25.0,58.0,4.5,16.0,0.0,5.0,3.0,Kurang Sehat
+Komak polong,1.10 g,99.0,3.3,21.2,0.1,0.0,15.0,10.3,1.5,Sehat
+Hazelnut,9.70 g,628.0,14.95,16.7,60.75,0.0,0.0,9.7,1.5,Sehat
+Sariroti roti tawar kupas,1 g,110.0,3.0,19.0,2.0,1.0,170.0,1.0,4.0,Kurang Sehat
+Mie bakso,0.80 g,114.0,5.3,16.4,3.0,0.0,760.0,0.1,1.5,Sehat
+Kin bulgarian yogurt orange,3 g,150.0,3.0,28.0,2.5,27.0,0.0,0.0,3.0,Kurang Sehat
+Tapai singkong,0.70 g,169.0,1.4,40.2,0.3,0.0,0.0,2.0,0.5,Sehat
+Buncis,Tidak Diketahui,0.5,34.0,2.4,7.2,0.3,0.0,8.0,0.5,Sehat
+Biskuit serena egg rolls chocolate,1 g,80.0,1.0,8.0,4.5,4.0,0.0,1.0,1.5,Sehat
+Ikan Mujahir / mujair goreng,2.20 g,416.0,46.9,0.0,23.9,0.0,54.0,0.0,4.0,Kurang Sehat
+Kue ku temu,0.50 g,214.0,3.5,49.6,0.2,0.0,0.0,0.0,1.5,Sehat
+Coklat Ferrero rocher,1 g,238.0,3.0,18.0,16.0,15.0,0.0,1.0,4.0,Kurang Sehat
+Outback steackhouse outback special,51 g,280.0,51.0,0.0,9.0,0.0,0.0,0.0,1.5,Sehat
+Indomie goreng,2 g,380.0,8.0,54.0,14.0,8.0,0.0,2.0,4.5,Tidak Sehat
+Nestle nestum,1 g,130.0,3.0,27.0,1.5,9.0,0.0,1.0,2.0,Sehat
+Indofood cap enak (kental manis),2 g,120.0,1.0,21.0,4.0,19.0,0.0,2.0,1.5,Sehat
+Pastel,1.50 g,307.0,4.5,42.4,13.3,0.0,0.0,0.0,2.0,Sehat
+Momogi Bintang Coklat,1 g,50.0,1.0,6.0,3.0,0.0,20.0,0.0,2.5,Kurang Sehat
+King's Fisher sarden goreng balado,8 g,120.0,8.0,4.0,8.0,0.0,0.0,0.0,0.5,Sehat
+Kewpie Caesar,1 g,70.0,1.0,3.0,6.0,0.0,190.0,0.0,2.5,Kurang Sehat
+Getuk singkong,1.10 g,204.0,0.5,47.4,1.4,0.0,0.0,0.8,0.5,Sehat
+Kenari banda,3.20 g,616.0,13.9,13.7,56.2,0.0,11.0,0.0,4.0,Kurang Sehat
+Indomie ayam geprek,3 g,410.0,9.0,49.0,20.0,6.0,0.0,3.0,4.5,Tidak Sehat
+Oncom kacang tanah pepes,4.80 g,132.0,11.7,13.7,3.8,0.0,0.0,3.1,-1.0,Sehat
+Putri hijau,0.50 g,189.0,5.4,37.2,2.1,0.0,0.0,0.0,0.5,Sehat
+Nestle Milo 3in1 Activ-Go (Malt),1 g,140.0,4.0,25.0,3.0,0.0,80.0,1.0,2.0,Sehat
+Tiwul Instan,2.70 g,395.0,3.2,76.5,8.5,0.0,377.0,4.2,4.5,Tidak Sehat
+Lanting getuk,3.80 g,422.0,0.9,80.4,10.8,0.0,0.0,1.4,2.0,Sehat
+Daun Kenikir,Tidak Diketahui,1.7,45.0,3.7,6.6,0.5,0.0,6.0,0.5,Sehat
+Oncom,1.40 g,187.0,13.0,22.6,6.0,0.0,0.0,0.0,0.0,Sehat
+Nasi minyak,1.10 g,207.0,3.5,37.1,5.0,0.0,74.0,0.8,3.0,Kurang Sehat
+Starbucks green tea frappuccino (whole milk),5 g,320.0,5.0,64.0,4.5,0.0,0.0,0.0,0.5,Sehat
+Kue Kelepon,1.20 g,215.0,3.7,41.8,3.7,0.0,0.0,1.0,0.5,Sehat
+ABC Selera pedas hot gulai chicken,21 g,270.0,7.0,34.0,12.0,1.0,0.0,21.0,4.5,Tidak Sehat
+Royco sup krim jagung,1 g,70.0,1.0,11.0,2.0,4.0,380.0,0.0,5.0,Tidak Sehat
+BANGO Kecap Manis Light,0 g,40.0,0.0,10.0,0.0,8.0,140.0,0.0,5.0,Tidak Sehat
+Happy Tos Tortilla Chips,1 g,60.0,2.0,16.0,7.0,1.0,125.0,1.0,5.5,Tidak Sehat
+super bubur rasa ayam,3 g,170.0,3.0,32.0,3.0,0.0,840.0,0.0,4.0,Kurang Sehat
+Yoshinoya Veggie beef bowl (Large bowl),9 g,960.0,35.0,141.0,29.0,8.0,0.0,9.0,4.5,Tidak Sehat
+Intip goreng,2 g,474.0,7.6,62.3,21.6,0.0,0.0,1.2,2.0,Sehat
+Daun pohpohan,Tidak Diketahui,2.4,37.0,2.5,6.9,0.8,0.0,0.0,3.0,Kurang Sehat
+Suki Rasa Ayam Kecap,2 g,100.0,2.0,13.0,4.0,1.0,240.0,0.0,5.0,Tidak Sehat
+Mie Sedaap baso spesial,6 g,340.0,9.0,47.0,13.0,2.0,0.0,6.0,4.5,Tidak Sehat
+Naraya melon seed,6 g,130.0,6.0,2.0,10.0,0.0,180.0,0.0,3.0,Kurang Sehat
+You C1000 vitamin lemon,0 g,700.0,0.0,16.0,0.0,16.0,0.0,0.0,3.5,Kurang Sehat
+Kopi Good day the original,1 g,90.0,1.0,16.0,2.5,13.0,0.0,1.0,1.5,Sehat
+Naraya Coklat Cookies,1 g,50.0,1.0,6.0,3.0,0.0,45.0,0.0,2.5,Kurang Sehat
+Susu On gold standard whey,0.50 g,120.0,20.0,3.0,1.8,1.6,0.0,0.5,1.5,Sehat
+Sariroti roti tawar gandum,6 g,190.0,6.0,32.0,3.5,2.0,290.0,6.0,5.5,Tidak Sehat
+King's Fisher sarden sambal bangkok,8 g,70.0,8.0,6.0,2.0,0.0,0.0,0.0,-1.0,Sehat
+Ultra Sari Asem Asli,0 g,130.0,0.0,32.0,0.0,0.0,0.0,0.0,0.5,Sehat
+Sagu aren segar,0.10 g,231.0,0.6,56.6,0.2,0.0,7.0,3.2,0.5,Sehat
+Koyabu,0.90 g,241.0,3.4,47.2,4.3,0.0,0.0,0.0,1.5,Sehat
+Buah kelor,1.30 g,38.0,1.5,7.5,0.2,0.0,48.0,3.2,1.5,Sehat
+Mie Sedaap Cup Mi Kuah Bakso,8 g,350.0,8.0,45.0,15.0,0.0,1070.0,0.0,4.5,Tidak Sehat
+Martabak mesir,1.10 g,278.0,5.1,45.0,8.6,0.0,193.0,0.0,4.5,Tidak Sehat
+Croissant,1 g,180.0,3.0,21.0,9.0,0.0,0.0,1.0,1.5,Sehat
+Hokben Tori Ball,7 g,250.0,7.0,15.0,14.0,0.0,0.0,0.0,1.5,Sehat
+Beras ganyong,0.50 g,364.0,3.4,86.3,0.7,0.0,4.0,4.7,0.5,Sehat
+MR.P Cashewnuts,7 g,250.0,7.0,11.0,19.0,0.0,0.0,0.0,1.5,Sehat
+Dodol bali,1.80 g,298.0,3.7,65.9,2.1,0.0,0.0,0.4,0.5,Sehat
+Susu kambing,Tidak Diketahui,0.9,64.0,4.3,6.6,2.3,0.0,35.0,3.0,Kurang Sehat
+Origo coffe strawberry kopi susu,2.43 g,108.0,2.43,12.55,4.34,10.25,0.0,0.0,2.5,Kurang Sehat
+Permen KIS mini assorted,0 g,30.0,0.0,7.0,0.0,5.0,0.0,0.0,2.5,Kurang Sehat
+Keju kcang tanah (peanut butter),0.10 g,590.0,27.0,20.9,49.0,0.0,355.0,1.6,4.0,Kurang Sehat
+donat Krispy kreme mini original glazed,0.30 g,83.3,1.0,10.0,4.3,4.7,0.0,0.3,1.5,Sehat
+Sarimi Gelas Rasa Baso Sapi,3 g,50.0,2.0,18.0,6.0,2.0,390.0,3.0,4.0,Kurang Sehat
+Dalgona coffe,9.25 g,306.0,9.25,52.77,7.05,33.86,0.0,0.0,4.5,Tidak Sehat
+Lousiana rub (classic wings),1 g,171.0,15.0,1.0,12.0,0.0,0.0,1.0,1.5,Sehat
+Outback steackhouse Ribeye,58 g,540.0,58.0,0.0,35.0,0.0,0.0,0.0,1.5,Sehat
+Bonchon Spicy wings,0 g,800.0,56.0,18.0,54.0,5.0,0.0,0.0,4.0,Kurang Sehat
+Talas bogor kukus,0.80 g,120.0,1.5,28.2,0.3,0.0,11.0,0.7,2.0,Sehat
+Maya Sardines Chili sause,0.23 g,180.0,12.08,2.6,2.11,0.0,0.2,0.0,0.0,Sehat
+Good Day rock caramello 3 in 1 200g,1 g,40.0,1.0,14.0,4.5,13.0,100.0,1.0,4.0,Kurang Sehat
+PRONAS Sarden saus pedas (425 g),8 g,80.0,8.0,2.0,4.0,0.0,120.0,0.0,1.5,Sehat
+Terung belanda,Tidak Diketahui,1.0,52.0,2.1,8.6,1.1,0.0,0.0,3.0,Kurang Sehat
+Chitato,2 g,110.0,2.0,11.0,6.0,0.0,0.0,0.0,0.0,Sehat
+Rambutan,0.40 g,69.0,0.9,18.1,0.1,0.0,16.0,0.8,1.5,Sehat
+Sawo Manila,0.50 g,92.0,0.5,22.4,1.1,0.0,26.0,9.5,1.5,Sehat
+Kerupuk cumi goreng,3.80 g,444.0,6.9,71.3,14.6,0.0,837.0,5.0,4.5,Tidak Sehat
+Gemblong,1.20 g,274.0,1.7,55.5,5.4,0.0,0.0,2.2,0.5,Sehat
+Pop mie rasa baso,3 g,140.0,8.0,47.0,15.0,5.0,720.0,3.0,6.0,Tidak Sehat
+Soto madura,Tidak Diketahui,0.9,60.0,3.5,1.3,4.5,0.0,0.0,1.5,Sehat
+Saos tomat,3.60 g,110.0,2.0,24.5,0.4,0.0,890.0,0.9,2.0,Sehat
+Sariroti sandwich coklat,2 g,150.0,3.0,21.0,6.0,4.0,125.0,2.0,4.0,Kurang Sehat
+Sagu manis,0.60 g,287.0,0.5,62.4,3.9,0.0,34.0,0.0,4.0,Kurang Sehat
+Lemonia Biscuit,1 g,45.0,1.0,13.0,5.0,5.0,50.0,1.0,4.0,Kurang Sehat
+Koro loke,Tidak Diketahui,0.6,33.0,2.7,7.9,0.2,0.0,2.0,0.5,Sehat
+Daun pakis,Tidak Diketahui,1.4,39.0,4.5,6.9,0.4,0.0,20.0,0.5,Sehat
+Kangkung tondano,1.10 g,43.0,1.8,8.4,0.2,0.0,30.0,4.3,1.5,Sehat
+Mie telur cap 3 ayam,6 g,230.0,8.0,49.0,0.0,2.0,0.0,6.0,3.0,Kurang Sehat
+Tepung Gaplek,1.10 g,345.0,2.4,83.1,0.4,0.0,6.0,6.7,0.5,Sehat
+Tempe kedelai murni mentah,1.60 g,201.0,20.8,13.5,8.8,0.0,9.0,1.4,4.0,Kurang Sehat
+Flax seeds,18.29 g,534.0,18.29,28.88,42.16,0.0,0.0,0.0,2.0,Sehat
+Starbucks hot caramel macchiato (nonfat milk),11 g,200.0,11.0,36.0,1.5,0.0,0.0,0.0,0.5,Sehat
+Bango Bumbu Kuliner Nusantara Tongseng Khas Solo,1 g,15.0,0.0,5.0,1.5,4.0,800.0,1.0,4.0,Kurang Sehat
+Bobengka,0.60 g,225.0,5.3,45.2,2.6,0.0,0.0,0.0,0.5,Sehat
+Pizza hut deluxe cheeses,1 g,150.0,6.0,17.0,6.0,2.0,0.0,1.0,1.5,Sehat
+Mi ABC cup baso sapi,4 g,290.0,7.0,34.0,13.0,3.0,0.0,4.0,4.5,Tidak Sehat
+Nasi merah,0.30 g,149.0,2.8,32.5,0.4,0.0,5.0,0.3,-0.5,Sehat
+Bagea kenari manis,1.30 g,523.0,3.2,64.2,28.2,0.0,74.0,0.0,5.5,Tidak Sehat
+Teh Javana,0 g,0.0,0.0,28.0,0.0,28.0,75.0,0.0,5.5,Tidak Sehat
+Biokul greek  yogurt,6 g,160.0,6.0,6.0,12.0,2.0,0.0,0.0,4.0,Kurang Sehat
+Frisian flag sweet delight,6 g,150.0,6.0,20.0,6.0,18.0,75.0,0.0,4.0,Kurang Sehat
+Ahh Nabati Richeese,0 g,10.0,0.0,3.0,1.0,1.0,15.0,0.0,5.0,Tidak Sehat
+Indomie mi kuah,2 g,300.0,7.0,43.0,11.0,3.0,0.0,2.0,4.5,Tidak Sehat
+Saladstop bold bulgogi,6 g,411.8,17.7,30.6,25.7,13.3,695.4,6.0,7.0,Tidak Sehat
+Kue sus,0.90 g,221.0,7.5,24.8,10.2,0.0,0.0,0.0,2.0,Sehat
+Dodol galamai,1.20 g,348.0,0.4,76.1,3.8,0.0,38.0,0.5,3.0,Kurang Sehat
+Ketoprak,2.60 g,153.0,7.9,13.0,7.7,0.0,0.0,2.9,0.5,Sehat
+Kue koa,1 g,340.0,4.8,79.3,0.4,0.0,0.0,0.0,0.5,Sehat
+Keju mozzarella,27.50 g,280.0,27.5,3.1,17.1,0.0,0.0,0.0,1.5,Sehat
+Espresso,0.04 g,3.0,0.04,0.49,0.05,0.0,0.0,0.0,0.0,Sehat
+Permen frozz lime mint,0 g,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Eskrim magnum white almond,3 g,230.0,3.0,23.0,14.0,13.0,0.0,3.0,4.5,Tidak Sehat
+Pop mie mie goreng pedas,6 g,370.0,6.0,49.0,17.0,4.0,0.0,6.0,4.5,Tidak Sehat
+Berilla Collezione Lasagne all'uovo,11 g,370.0,11.0,71.0,4.0,0.0,30.0,0.0,3.0,Kurang Sehat
+Roma Sandwich,2 g,140.0,2.0,17.0,7.0,6.0,80.0,0.0,6.5,Tidak Sehat
+Taoge kacang tunggak,Tidak Diketahui,1.0,40.0,5.0,5.8,0.2,0.0,2.0,-1.0,Sehat
+Kacang negara,0.90 g,480.0,18.4,58.5,19.1,0.0,1010.0,11.7,4.5,Tidak Sehat
+Piattos Sambal Geprek Flavor,2 g,45.0,1.0,13.0,5.0,1.0,100.0,2.0,4.0,Kurang Sehat
+Japilus,2.70 g,500.0,1.2,67.3,25.1,0.0,0.0,0.4,2.0,Sehat
+Ribeye,19.80 g,217.0,19.8,0.11,15.21,0.0,0.0,0.0,1.5,Sehat
+Nutrijell pudding suus rasa vanila (120 g),0 g,40.0,0.0,8.0,0.5,5.0,30.0,0.0,5.0,Tidak Sehat
+Mie sedaap kari spesial,3 g,340.0,8.0,48.0,13.0,2.0,0.0,3.0,4.5,Tidak Sehat
+Burger Carl's Jr california classic double cheeseburger,2 g,600.0,23.0,41.0,39.0,11.0,0.0,2.0,4.5,Tidak Sehat
+Permen mentos spearmint,0 g,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Teh Kotak Rasa Apel,0 g,100.0,0.0,24.0,0.0,20.0,50.0,0.0,5.5,Tidak Sehat
+Santan (dengan air),0.40 g,122.0,2.0,7.6,10.0,0.0,9.0,1.4,3.0,Kurang Sehat
+Mi basah,2.10 g,88.0,0.6,14.0,3.3,0.0,63.0,0.1,2.5,Kurang Sehat
+Sagu forno,0.60 g,291.0,0.5,63.4,4.0,0.0,40.0,0.0,4.0,Kurang Sehat
+Gado-gado,1.50 g,137.0,6.1,21.0,3.2,0.0,0.0,1.1,-1.0,Sehat
+Coklat Hershey's milk chocolate,0.10 g,22.0,0.3,2.8,1.3,2.6,0.0,0.1,2.5,Kurang Sehat
+Mie aceh rebus,1.10 g,113.0,3.0,18.1,3.2,0.0,191.0,0.0,2.5,Kurang Sehat
+Jagung gerontol,0.80 g,156.0,2.7,33.3,1.3,0.0,0.0,1.0,-0.5,Sehat
+Puff pastry sheet,3 g,200.0,3.0,18.0,13.0,1.0,0.0,0.0,5.0,Tidak Sehat
+Melinjo emping tebal goreng asin,1.60 g,431.0,11.1,63.0,16.2,0.0,0.0,0.0,2.0,Sehat
+Yogurt greek yummy original,7 g,140.0,7.0,17.0,4.0,8.0,0.0,0.0,1.5,Sehat
+Sayur sop,2.70 g,27.0,1.3,1.0,2.0,0.0,0.0,0.3,-1.0,Sehat
+Pulut,0.80 g,216.0,2.6,44.4,3.1,0.0,100.0,0.0,4.0,Kurang Sehat
+Nutrisari jus mangga,0 g,60.0,0.0,13.0,1.0,12.0,0.0,0.0,2.5,Kurang Sehat
+dancow susu bubuk fortigro full cream,6 g,120.0,6.0,10.0,7.0,0.0,90.0,0.0,3.0,Kurang Sehat
+Pork loin,19.74 g,198.0,19.74,0.0,12.58,0.0,0.0,0.0,1.5,Sehat
+Cake tape,1.40 g,323.0,4.9,50.1,11.5,0.0,0.0,1.4,2.0,Sehat
+Supermi rasa Kaldu Ayam,3 g,100.0,6.0,45.0,11.0,2.0,920.0,3.0,6.0,Tidak Sehat
+Sate Ayam,19.54 g,225.0,19.54,4.87,14.82,0.0,355.0,0.0,4.0,Kurang Sehat
+Ademsari chingku herbal tea,0 g,90.0,0.0,21.0,0.0,21.0,0.0,0.0,2.5,Kurang Sehat
+Batatas gembili,Tidak Diketahui,0.7,76.0,1.1,16.0,0.9,0.0,10.0,3.0,Kurang Sehat
+Supermi rasa steak ayam,4 g,140.0,7.0,54.0,15.0,6.0,590.0,4.0,6.0,Tidak Sehat
+Red Hot Cajun  (classic wings),1 g,142.0,15.0,1.0,8.0,0.0,0.0,1.0,0.5,Sehat
+Tony roma's the original baby back ribs,0 g,563.0,30.0,55.0,25.0,50.0,0.0,0.0,4.5,Tidak Sehat
+Kerupuk kemplang (ikan) mentah,5.10 g,325.0,1.8,78.5,0.4,0.0,1123.0,4.5,3.0,Kurang Sehat
+Rempeyek kacang uci,3.40 g,497.0,17.0,50.8,27.6,0.0,0.0,2.4,2.0,Sehat
+Ampas kacang hijau,0.60 g,96.0,3.7,19.1,0.6,0.0,0.0,2.7,-1.0,Sehat
+Pronas chicken luncheon,3 g,80.0,4.0,3.0,6.0,0.0,0.0,3.0,-1.0,Sehat
+Soto sukaraja,Tidak Diketahui,1.1,80.0,3.2,9.0,3.5,0.0,0.0,3.0,Kurang Sehat
+Chitato keripik kentang rasa sapi panggang,2 g,110.0,2.0,11.0,6.0,0.0,115.0,0.0,2.5,Kurang Sehat
+Manan samin,0.80 g,379.0,3.4,50.6,18.1,0.0,0.0,0.0,3.0,Kurang Sehat
+Pizza hut meat lover's,2 g,470.0,19.0,36.0,28.0,1.0,0.0,2.0,4.5,Tidak Sehat
+Bika ambon,0.60 g,199.0,2.1,44.4,1.5,0.0,0.0,0.3,0.5,Sehat
+Keju Lemnos Fetta Cheese,5.40 g,83.0,5.4,0.4,6.9,0.9,0.0,0.0,3.0,Kurang Sehat
+Krupuk Bocah Tua (mentah),1 g,340.0,1.0,84.0,0.0,0.0,1570.0,0.0,4.0,Kurang Sehat
+Nissin wafer coklat,2 g,50.0,2.0,20.0,6.0,8.0,70.0,0.0,5.0,Tidak Sehat
+Richeese Nabati,0 g,40.0,0.0,6.0,1.5,0.0,30.0,0.0,2.5,Kurang Sehat
+KFC extra crispy sayap,10 g,170.0,10.0,5.0,13.0,0.0,0.0,0.0,1.5,Sehat
+Kacang uci,3.70 g,358.0,23.4,60.6,2.4,0.0,13.0,7.4,3.0,Kurang Sehat
+Kecimpring singkong goreng,3.50 g,464.0,1.2,73.0,18.6,0.0,0.0,1.3,2.0,Sehat
+Sariroti Sandwich krim keju,1 g,130.0,3.0,17.0,6.0,3.0,260.0,1.0,4.0,Kurang Sehat
+Susu My protein impact whey protein,0.50 g,105.0,20.0,3.0,1.8,1.6,0.0,0.5,1.5,Sehat
+Kluwek,1.50 g,310.0,10.0,13.5,24.0,0.0,0.0,0.0,1.5,Sehat
+keripik Qtela singkong,0 g,100.0,0.0,14.0,5.0,1.0,0.0,0.0,2.5,Kurang Sehat
+Milo Activ-Go 18 gram,0 g,15.0,2.0,13.0,2.0,8.0,35.0,0.0,5.0,Tidak Sehat
+Indomie rasa ayam bawang,2 g,100.0,7.0,43.0,11.0,3.0,1330.0,2.0,6.0,Tidak Sehat
+Ketela pohon kukus,0.60 g,153.0,1.2,36.4,0.3,0.0,2.0,1.3,-0.5,Sehat
+Indomie rasa ayam special,2 g,90.0,7.0,44.0,10.0,3.0,1180.0,2.0,6.0,Tidak Sehat
+Caotina,1 g,114.0,1.0,10.4,7.4,10.0,20.0,0.0,6.5,Tidak Sehat
+Jahe,Tidak Diketahui,1.2,51.0,1.5,10.1,1.0,0.0,12.0,3.0,Kurang Sehat
+Yeo's Chrysantenum tea,0 g,90.0,0.0,22.0,0.0,22.0,0.0,0.0,2.5,Kurang Sehat
+Kue kelapa,1.50 g,591.0,5.6,47.5,42.1,0.0,33.0,0.0,4.5,Tidak Sehat
+Teajus Gula Batu,0 g,25.0,0.0,6.0,0.0,5.0,0.0,0.0,2.5,Kurang Sehat
+nestle cerelac bubur sereal susu rasa ayam sayur,8 g,210.0,8.0,34.0,5.0,0.0,150.0,0.0,3.0,Kurang Sehat
+Nissin UFO fried ramen 100 g,100 g,190.0,8.0,62.0,21.0,6.0,1980.0,2.0,7.0,Tidak Sehat
+Ricola herb canndy,0 g,60.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Mostarda metan-sawi,1.10 g,33.0,2.3,4.7,0.5,0.0,20.0,1.8,1.5,Sehat
+ABC Minuman Asam Jawa,0 g,140.0,0.0,34.0,0.0,0.0,0.0,0.0,0.5,Sehat
+Labu siam,Tidak Diketahui,0.3,30.0,0.6,6.7,0.1,0.0,3.0,0.5,Sehat
+Sirup Sunquick Orange,0 g,45.0,0.0,11.0,0.0,11.0,0.0,0.0,2.5,Kurang Sehat
+Kembang tahu rebus,0.80 g,90.0,10.7,4.7,4.0,0.0,0.0,0.0,-1.0,Sehat
+Indofood Racik Bumbu Nasi Goreng,0 g,0.0,0.0,4.0,0.0,2.0,1050.0,0.0,5.0,Tidak Sehat
+Tahu telur,1.10 g,328.0,12.6,24.6,19.9,0.0,755.4,0.4,4.5,Tidak Sehat
+Tempe bongkrek,146.30 g,119.0,4.4,18.3,3.5,0.0,0.0,0.0,-1.0,Sehat
+Royco ayam bumbu rujak,0 g,10.0,0.0,2.0,0.0,2.0,0.0,0.0,2.5,Kurang Sehat
+Fitbar,1 g,90.0,3.0,14.0,2.5,4.0,0.0,1.0,1.5,Sehat
+Tempe lamtoro var. gung tanpa kuit,1.10 g,131.0,18.0,13.0,0.8,0.0,0.0,1.3,-1.0,Sehat
+Oishi Rasa Udang Pedas,0.50 g,12.5,1.0,8.0,1.5,1.0,95.0,0.5,4.0,Kurang Sehat
+Yoghurt,Tidak Diketahui,2.2,52.0,3.3,4.0,2.5,0.0,40.0,1.5,Sehat
+Es krim Wall's double dutch,1 g,150.0,3.0,18.0,7.0,9.0,0.0,1.0,3.0,Kurang Sehat
+Bamboe Tongseng,2 g,25.0,1.0,5.0,2.5,1.0,580.0,2.0,4.0,Kurang Sehat
+Top sirloin,21.77 g,127.0,21.77,0.01,4.45,0.0,0.0,0.0,-1.0,Sehat
+Sambal Terasi Kokita,1 g,30.0,1.0,5.0,1.0,1.0,0.0,0.0,2.5,Kurang Sehat
+susu mama minuman khusus ibu hamil & menyusui rasa cokelat,9 g,190.0,9.0,26.0,5.0,0.0,115.0,0.0,3.0,Kurang Sehat
+Ubi jalar tinta / kemayung,1 g,108.0,0.5,25.6,0.4,0.0,1.0,4.2,-0.5,Sehat
+Cengkeh kering,5.20 g,330.0,5.2,57.4,8.9,0.0,282.0,10.0,4.5,Tidak Sehat
+Kacang kedelai goreng,100.0 g,521.0,32.2,22.9,37.7,0.0,3492.0,7.6,4.0,Kurang Sehat
+monde boromon cookies,1 g,0.0,0.0,18.0,0.0,5.0,10.0,1.0,4.0,Kurang Sehat
+KFC extra crispy dada,35 g,530.0,35.0,18.0,35.0,0.0,0.0,0.0,1.5,Sehat
+Mi ABC cup mi ayam jamur,6 g,390.0,7.0,45.0,20.0,8.0,0.0,6.0,4.5,Tidak Sehat
+Permen RELAXA,0 g,10.0,0.0,2.0,0.0,2.0,0.0,0.0,2.5,Kurang Sehat
+Kopi Good Day Chococinno,1 g,98.0,1.0,17.0,2.0,0.0,15.0,0.0,2.5,Kurang Sehat
+Pop Ice Taro,0 g,15.0,0.0,22.0,1.5,19.0,40.0,0.0,5.0,Tidak Sehat
+Koro andong,3 g,356.0,20.5,61.6,4.1,0.0,18.0,7.0,3.0,Kurang Sehat
+Jeruk manis,Tidak Diketahui,0.5,45.0,0.9,11.2,0.2,0.0,4.0,0.5,Sehat
+Bamboe Lodeh,0 g,10.0,1.0,0.0,1.0,0.0,980.0,0.0,2.5,Kurang Sehat
+Pizza hut meat lovers,1 g,210.0,8.0,17.0,12.0,2.0,0.0,1.0,4.0,Kurang Sehat
+Starbucks chocolate croissant,2 g,340.0,5.0,38.0,20.0,13.0,0.0,2.0,4.5,Tidak Sehat
+Mie Gaga Goreng Lada Hitam,9 g,390.0,9.0,53.0,16.0,0.0,1150.0,0.0,4.5,Tidak Sehat
+Spaghetti,2.10 g,139.0,7.4,22.6,2.1,0.0,0.0,0.0,-1.0,Sehat
+Eskrim walls feast vanila,1 g,140.0,2.0,15.0,8.0,13.0,0.0,1.0,3.0,Kurang Sehat
+Ham,5.80 g,384.0,16.9,0.3,35.0,0.0,112.0,0.0,4.0,Kurang Sehat
+Es krim Diamond durian,2 g,100.0,2.0,12.0,6.0,9.0,0.0,0.0,2.5,Kurang Sehat
+Kue thipan,0.40 g,247.0,2.9,49.5,4.2,0.0,95.0,0.0,4.0,Kurang Sehat
+Dodol manado,1.20 g,373.0,4.3,51.9,16.5,0.0,35.0,0.4,4.5,Tidak Sehat
+Ampas tahu kering,5.80 g,414.0,26.6,41.3,18.3,0.0,45.0,0.0,4.5,Tidak Sehat
+Promina sliky puding rasa strawberry,1 g,110.0,1.0,19.0,3.0,11.0,12.0,0.0,5.0,Tidak Sehat
+Kue ali,0.40 g,440.0,3.8,64.5,18.5,0.0,0.0,0.3,2.0,Sehat
+Keripik gadung,2.80 g,446.0,2.8,76.0,14.5,0.0,0.0,1.7,2.0,Sehat
+Indofood Saos Tomat (135 ml),0 g,20.0,0.0,5.0,0.0,4.0,400.0,0.0,5.0,Tidak Sehat
+donat Krispy kreme glazed chocolate cake,1 g,250.0,3.0,38.0,10.0,24.0,0.0,1.0,4.5,Tidak Sehat
+Royco nasi goreng,0 g,15.0,0.0,2.0,0.0,2.0,0.0,0.0,2.5,Kurang Sehat
+Starbucks Almond croissant,3 g,420.0,10.0,45.0,22.0,13.0,0.0,3.0,4.5,Tidak Sehat
+Sari Wangi Teh Hitam Jahe & Kunyit,0 g,0.0,0.0,0.0,0.0,0.0,10.0,0.0,2.5,Kurang Sehat
+Mom Miyuki Go Roa Keripik Pisang Goroho (Roa Pedas),1 g,180.0,1.0,24.0,8.0,14.0,50.0,0.0,8.0,Tidak Sehat
+Emping beras,1.90 g,403.0,10.6,85.3,2.2,0.0,1.0,0.2,0.5,Sehat
+Tahu goreng,2 g,115.0,9.7,2.5,8.5,0.0,7.0,0.1,0.5,Sehat
+Kopi Kapal api grande white coffe,1 g,90.0,1.0,17.0,2.0,12.0,0.0,1.0,1.5,Sehat
+Kabuto,0.60 g,250.0,2.6,35.4,2.5,0.0,2.0,1.8,0.5,Sehat
+Nissin Gekikara Ramen Rasa Carbonara Pedas,7 g,350.0,7.0,53.0,12.0,0.0,1170.0,0.0,4.5,Tidak Sehat
+Es krim Diamond kacang hijau,4 g,220.0,4.0,12.0,11.0,8.0,0.0,0.0,5.0,Tidak Sehat
+Outback steackhouse T-Bone,79 g,910.0,79.0,4.0,64.0,0.0,0.0,0.0,1.5,Sehat
+Sarimuka,0.50 g,166.0,2.3,32.9,2.8,0.0,3.0,0.0,1.5,Sehat
+Kopiko coffe candy,0 g,40.0,0.0,8.0,1.0,6.0,0.0,0.0,2.5,Kurang Sehat
+You C1000 vitamin orange,0 g,80.0,0.0,20.0,0.0,20.0,0.0,0.0,2.5,Kurang Sehat
+Pizza hut deluxe cheese,3 g,380.0,16.0,37.0,19.0,1.0,0.0,3.0,4.5,Tidak Sehat
+Tepung Jalejo,2.30 g,347.0,19.0,61.2,7.5,0.0,3.0,5.8,2.0,Sehat
+yummy bites banana flavor,2 g,190.0,2.0,44.0,0.0,4.0,130.0,0.0,6.5,Tidak Sehat
+Brem,0.90 g,249.0,3.4,58.0,0.4,0.0,0.0,0.0,1.5,Sehat
+Kopiko 78'C coffe latte,4 g,160.0,4.0,28.0,3.0,24.0,0.0,0.0,4.0,Kurang Sehat
+Sayur ndusuk,3.10 g,49.0,3.1,3.6,2.5,0.0,1011.0,0.0,2.5,Kurang Sehat
+Hershey's Spreads,1 g,190.0,3.0,20.0,12.0,19.0,50.0,1.0,6.5,Tidak Sehat
+Gery Saluut Malkist Double Abon,1 g,90.0,1.0,15.0,2.5,3.0,930.0,0.0,5.0,Tidak Sehat
+Suweg kukus,1 g,93.0,1.5,21.9,0.1,0.0,6.0,0.9,-1.0,Sehat
+Cangkuning,0.80 g,204.0,2.8,31.4,7.5,0.0,0.0,0.0,3.0,Kurang Sehat
+Doritos barbeque,2 g,100.0,2.0,13.0,4.5,1.0,0.0,0.0,2.5,Kurang Sehat
+Kopi bubuk instan,9.70 g,129.0,12.3,35.0,0.5,0.0,72.0,0.0,2.0,Sehat
+Buavita Orange,0.50 g,120.0,0.0,28.0,0.0,23.0,0.0,0.5,2.0,Sehat
+Mi sedaap cup mi goreng,7 g,390.0,6.0,52.0,18.0,5.0,0.0,7.0,4.5,Tidak Sehat
+Outback steackhouse new york strip,63 g,810.0,63.0,0.0,62.0,0.0,0.0,0.0,1.5,Sehat
+Permen Xylitol Blueberry Mint,0 g,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Susu WRP Lose weight stroberi,2 g,220.0,14.0,25.0,6.0,21.0,0.0,2.0,3.0,Kurang Sehat
+Kacang marah tua,6.20 g,280.0,16.7,63.2,1.6,0.0,19.0,4.6,3.0,Kurang Sehat
+Nissin Gekikara Ramen rasa Ayam Pedas,7 g,360.0,7.0,52.0,14.0,0.0,1030.0,0.0,4.5,Tidak Sehat
+Widaran,0.30 g,424.0,1.3,80.7,10.7,0.0,0.0,0.2,2.0,Sehat
+Mr. Bread Roti tawar,2.50 g,198.0,7.0,36.0,3.0,2.5,269.0,2.5,5.5,Tidak Sehat
+Indomie mi goreng aceh,6 g,170.0,9.0,55.0,19.0,6.0,790.0,6.0,7.0,Tidak Sehat
+Ichitan Thailand Milk Tea,3 g,50.0,3.0,36.0,6.0,25.0,160.0,0.0,5.5,Tidak Sehat
+Top coffee Gula Aren,1 g,20.0,1.0,18.0,2.5,14.0,35.0,0.0,5.0,Tidak Sehat
+Sayur umbut kelapa,1.30 g,67.0,5.2,5.1,2.9,0.0,313.0,1.4,1.5,Sehat
+Maggi Magic Lezat Bumbu Penyedap,1 g,5.0,1.0,1.0,0.0,0.0,970.0,0.0,2.5,Kurang Sehat
+Good Time Cookies,1 g,50.0,2.0,21.0,6.0,10.0,220.0,1.0,4.0,Kurang Sehat
+Beras parboiled,2.50 g,353.0,6.8,80.0,0.6,0.0,2.0,0.5,0.5,Sehat
+Heavenly blush greek yogurt,3 g,170.0,6.0,16.0,9.0,9.0,0.0,3.0,4.0,Kurang Sehat
+Biskuit meiji Hello panda,1 g,230.0,3.0,30.0,10.0,12.0,0.0,1.0,4.5,Tidak Sehat
+Prosana Proffle Biskuit Waffle Tinggi Protein,0 g,20.0,5.0,12.0,2.0,2.0,65.0,0.0,4.0,Kurang Sehat
+donat Krispy kreme original glazed,1 g,190.0,3.0,21.0,11.0,10.0,0.0,1.0,4.0,Kurang Sehat
+Pisang tujuh bulan,0.80 g,94.0,0.6,22.5,0.2,0.0,0.0,3.7,-1.0,Sehat
+Nutrisari Jeju orange,0 g,60.0,0.0,14.0,0.0,11.0,0.0,0.0,2.5,Kurang Sehat
+Biskuit,1.40 g,458.0,6.9,75.1,14.4,0.0,241.0,2.1,4.5,Tidak Sehat
+Mie Sagu,0.10 g,190.0,0.2,46.5,0.4,0.0,10.0,1.4,3.0,Kurang Sehat
+Tempe gembus P3G,0.80 g,73.0,5.7,10.3,1.3,0.0,0.0,4.2,-1.0,Sehat
+ABC Sari Kacang Hijau,2 g,160.0,2.0,36.0,0.0,0.0,0.0,0.0,1.5,Sehat
+Kue putu cangkir,0.20 g,304.0,5.3,54.9,7.0,0.0,0.0,0.9,2.0,Sehat
+Indofood Sambal Pedas Dahsyat (135 ml),0 g,25.0,0.0,5.0,0.0,4.0,270.0,0.0,5.0,Tidak Sehat
+Daun jonghe,Tidak Diketahui,1.4,27.0,2.1,4.4,0.7,0.0,0.0,1.5,Sehat
+Gatot,1.40 g,347.0,1.3,83.8,0.7,0.0,28.0,5.8,3.0,Kurang Sehat
+Sosis Kanzler German Bratwurst,0 g,150.0,0.0,0.0,12.0,0.0,435.0,0.0,4.0,Kurang Sehat
+Teh botol sosro less sugar,0 g,90.0,0.0,22.0,0.0,22.0,0.0,0.0,2.5,Kurang Sehat
+Cassavastick,2.70 g,460.0,0.8,17.2,18.7,0.0,0.0,1.6,1.5,Sehat
+Chitato Maxx Spicy Mexican Chili Flavor,1 g,50.0,1.0,12.0,6.0,1.0,90.0,0.0,5.0,Tidak Sehat
+Nasi / Nasi Putih,0.20 g,180.0,3.0,39.8,0.3,0.0,1.0,0.2,0.5,Sehat
+Better Sandwich Biscuit,1 g,60.0,2.0,18.0,7.0,9.0,75.0,1.0,5.5,Tidak Sehat
+Starbucks cappuccino (nonfat milk),8 g,80.0,8.0,12.0,0.0,0.0,0.0,0.0,-1.0,Sehat
+Coca cola zero sugar,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Tempe gembus yogya,1.10 g,76.0,6.8,10.6,0.7,0.0,0.0,5.3,-1.0,Sehat
+Oreo dutch Cocoa wafer,2 g,50.0,1.0,17.0,6.0,9.0,50.0,2.0,4.0,Kurang Sehat
+Starbucks hot caffe mocha (whole milk),13 g,330.0,13.0,42.0,12.0,0.0,0.0,0.0,2.0,Sehat
+Yogurt greek heavenly blush strawberrt,4 g,170.0,5.0,18.0,9.0,10.0,45.0,4.0,6.5,Tidak Sehat
+Monde Boromon Wafers rasa Strawberry susu,2 g,60.0,1.0,17.0,6.0,7.0,35.0,2.0,4.0,Kurang Sehat
+Ceriping getuk singkong,3.20 g,462.0,1.2,67.7,20.7,0.0,0.0,0.6,2.0,Sehat
+Matoa,Tidak Diketahui,1.1,90.0,1.2,21.1,0.1,0.0,10.0,0.5,Sehat
+Bayam kukus,1.60 g,30.0,1.3,5.8,0.7,0.0,15.0,1.2,1.5,Sehat
+Mie pangsit basah,0.70 g,105.0,5.9,9.4,4.9,0.0,530.0,0.0,1.5,Sehat
+Frisian flag california strawberry low fat,7 g,150.0,7.0,24.0,2.5,22.0,125.0,0.0,4.5,Tidak Sehat
+HILO PLATINUM Swiss Chocolate Flavour,8 g,130.0,8.0,21.0,2.0,0.0,150.0,0.0,1.5,Sehat
+Ikan Hiu kering,6.80 g,298.0,46.3,20.2,3.6,0.0,957.0,0.0,2.5,Kurang Sehat
+Frisian flag gold (kental manis),3 g,130.0,3.0,22.0,3.5,21.0,0.0,0.0,2.5,Kurang Sehat
+Gandaria masak,Tidak Diketahui,0.4,68.0,0.7,18.0,0.1,0.0,3.0,0.5,Sehat
+Teh Kotak Rasa Blackcurrant,0 g,100.0,0.0,24.0,0.0,21.0,50.0,0.0,5.5,Tidak Sehat
+Oishi Snack Sponge Crunch Chocolate,0 g,45.0,1.0,11.0,5.0,5.0,20.0,0.0,5.0,Tidak Sehat
+KFC extra crispy paha atas,22 g,330.0,22.0,9.0,23.0,0.0,0.0,0.0,1.5,Sehat
+Butter cookies Monde,2 g,70.0,2.0,20.0,8.0,7.0,0.0,0.0,4.0,Kurang Sehat
+Es krim Wall's oreo cookies cream,1 g,140.0,2.0,17.0,7.0,11.0,0.0,1.0,3.0,Kurang Sehat
+Nissin Walens Chocosoes,2 g,80.0,2.0,14.0,8.0,8.0,65.0,0.0,6.5,Tidak Sehat
+East Bali Cashews Granola With Rosella Cinnamon,2.50 g,126.0,2.5,18.5,4.0,5.0,118.5,2.5,4.0,Kurang Sehat
+Jasjus Rasa Anggur,0 g,25.0,0.0,6.0,0.0,5.0,15.0,0.0,5.0,Tidak Sehat
+Indomie kari ayam,2 g,320.0,7.0,46.0,12.0,4.0,0.0,2.0,4.5,Tidak Sehat
+Ikan Hiu,Tidak Diketahui,1.1,57.0,10.7,2.2,0.3,0.0,0.0,-1.0,Sehat
+Starbucks Iced caffe mocha (notfat milk),9 g,200.0,9.0,36.0,2.5,0.0,0.0,0.0,0.5,Sehat
+Gadeng / Gadung kering,0.20 g,322.0,2.4,76.6,0.6,0.0,5.0,0.0,1.5,Sehat
+Sirup pirous,0.20 g,228.0,0.2,55.9,0.4,0.0,3.0,0.0,1.5,Sehat
+You C1000 vitamin apple,0 g,60.0,0.0,14.0,0.0,14.0,0.0,0.0,2.5,Kurang Sehat
+Susu sapi,Tidak Diketahui,0.7,61.0,3.2,4.3,3.5,0.0,36.0,1.5,Sehat
+Roti gandum,4 g,267.0,10.72,48.68,3.24,5.91,508.0,4.0,5.5,Tidak Sehat
+Ikan Mujahir / Mujair pepes,1 g,121.0,21.7,0.8,2.8,0.0,58.0,0.0,1.5,Sehat
+Lilin bungkus gedi,1.90 g,79.0,2.3,5.8,5.2,0.0,170.0,2.5,1.5,Sehat
+Mie celon,1.20 g,102.0,3.0,17.8,2.1,0.0,451.0,0.0,2.5,Kurang Sehat
+Beef burger,2.20 g,258.0,10.6,32.5,9.5,0.0,572.0,0.4,4.5,Tidak Sehat
+Walens choco soes,2 g,140.0,2.0,14.0,8.0,0.0,0.0,0.0,1.5,Sehat
+Kapurung,0.60 g,41.0,2.0,7.8,0.3,0.0,185.0,2.0,1.5,Sehat
+Daun kesum,Tidak Diketahui,0.8,48.0,4.5,9.1,0.8,0.0,11.0,3.0,Kurang Sehat
+Teh melati daun kering,5.30 g,299.0,24.1,59.0,3.5,0.0,70.0,9.7,3.0,Kurang Sehat
+Tony roma's potato skin,0 g,751.0,35.0,41.0,51.0,2.0,0.0,0.0,4.5,Tidak Sehat
+Yogurt mixed berry,4 g,140.0,4.0,22.0,4.0,0.0,30.0,4.0,1.5,Sehat
+Susu Bear brand gold malt putih,4 g,120.0,4.0,19.0,1.5,0.0,0.0,0.0,0.0,Sehat
+brokoli ,Tidak Diketahui,90.5,23.2,3.2,1.9,0.2,0.0,15.0,-1.0,Sehat
+Keripik oncom,2.20 g,598.0,8.3,42.6,43.8,0.0,0.0,3.3,2.0,Sehat
+Tepung terigu,1 g,333.0,9.0,77.2,1.0,0.0,2.0,0.3,0.5,Sehat
+Richeese Nabati Wafer Krim Keju,0 g,40.0,0.0,6.0,1.5,0.0,30.0,0.0,2.5,Kurang Sehat
+Dairy queen Vanilla cone,0 g,330.0,9.0,52.0,9.0,36.0,0.0,0.0,4.5,Tidak Sehat
+Kacang gude rebus,1.50 g,147.0,9.0,27.5,0.5,0.0,14.0,3.4,2.0,Sehat
+Carman's bircher muesli,7.90 g,421.0,14.7,48.1,17.1,16.0,0.0,7.9,4.5,Tidak Sehat
+Taoge,Tidak Diketahui,0.4,34.0,3.7,4.3,1.2,0.0,19.0,1.5,Sehat
+Nutrisari jus jambu,0 g,60.0,0.0,13.0,1.5,12.0,0.0,0.0,2.5,Kurang Sehat
+Ultra milk low fat source of calcium,7 g,90.0,7.0,11.0,2.5,0.0,105.0,0.0,1.5,Sehat
+Piattos Sambal Terasi Flavor,2 g,45.0,1.0,13.0,5.0,1.0,140.0,2.0,4.0,Kurang Sehat
+Bengkuang,Tidak Diketahui,0.5,59.0,1.4,12.8,0.2,0.0,2.0,0.5,Sehat
+Umbut kelapa,Tidak Diketahui,1.3,39.0,2.0,7.2,0.2,0.0,4.0,0.5,Sehat
+Sarimi Gelas Rasa Kari Ayam,2 g,70.0,8.0,16.0,8.0,1.0,1110.0,2.0,5.5,Tidak Sehat
+Martabak india,1.20 g,153.0,4.5,24.3,4.2,0.0,240.0,0.0,2.0,Sehat
+Wajit camilan,0.60 g,303.0,6.3,63.3,2.7,0.0,0.0,6.9,0.5,Sehat
+Taro net,2 g,80.0,2.0,15.0,2.0,0.0,0.0,0.0,0.0,Sehat
+Sayur umbut rotan,1.30 g,57.0,5.4,3.1,2.6,0.0,256.0,1.6,1.5,Sehat
+Kakicak,0.90 g,296.0,3.4,36.7,15.1,0.0,0.0,0.0,3.0,Kurang Sehat
+Yoforia Berry smooth,4 g,130.0,4.0,24.0,2.0,20.0,0.0,0.0,3.0,Kurang Sehat
+Nissin Butter Coconut Biscuits,2 g,100.0,1.0,14.0,5.0,4.0,55.0,2.0,4.0,Kurang Sehat
+Herslim,2 g,10.0,13.0,13.0,1.5,2.0,120.0,2.0,4.0,Kurang Sehat
+Indomie rasa kaldu ayam,4 g,110.0,6.0,50.0,12.0,0.0,980.0,4.0,3.5,Kurang Sehat
+Papeda,0.10 g,61.0,0.2,14.9,0.1,0.0,4.0,0.5,-1.0,Sehat
+Daun oyong,Tidak Diketahui,0.6,22.0,1.0,5.3,0.1,0.0,40.0,-1.0,Sehat
+wrp everyday susu bubuk rasa choco hazelnut,5 g,110.0,5.0,21.0,1.0,0.0,35.0,0.0,1.5,Sehat
+Ichi ocha,0 g,0.0,0.0,26.0,0.0,24.0,35.0,0.0,5.5,Tidak Sehat
+MR. P Honey Peanuts,7 g,150.0,7.0,5.0,12.0,3.0,0.0,0.0,3.0,Kurang Sehat
+Suwir-suwir,1 g,347.0,0.5,84.2,0.9,0.0,0.0,0.8,0.5,Sehat
+Daun labu siam,Tidak Diketahui,1.2,34.0,4.0,4.7,0.4,0.0,16.0,-1.0,Sehat
+Uceng / bunga melinjo,Tidak Diketahui,1.7,82.0,5.8,11.7,1.3,0.0,0.0,3.0,Kurang Sehat
+Golden Farm mixed vegetable,3 g,70.0,3.0,14.0,1.0,4.0,0.0,0.0,2.5,Kurang Sehat
+Kue pelita,0.60 g,141.0,5.3,17.6,5.5,0.0,0.0,0.0,-1.0,Sehat
+Dairy queen chocolate dipped cone,1 g,460.0,9.0,59.0,22.0,43.0,0.0,1.0,4.5,Tidak Sehat
+Jeruk banjar,Tidak Diketahui,0.4,61.0,0.8,14.1,0.2,0.0,3.0,0.5,Sehat
+Daun labu wuluh/kuning,Tidak Diketahui,1.6,34.0,3.6,4.5,0.6,0.0,16.0,1.5,Sehat
+Tepung Ganyong,0.30 g,353.0,0.8,83.6,1.7,0.0,3.0,0.7,0.5,Sehat
+Umbut rotan,1.30 g,34.0,2.4,5.5,0.3,0.0,8.0,2.2,1.5,Sehat
+Yogurt frozen pinkberry (Kecil),0 g,150.0,6.0,31.0,0.0,30.0,0.0,0.0,2.0,Sehat
+Golden Farm corn kernel,3 g,70.0,3.0,14.0,1.0,3.0,0.0,0.0,2.5,Kurang Sehat
+Nutrisari Florida orange,0 g,50.0,0.0,13.0,0.0,11.0,0.0,0.0,2.5,Kurang Sehat
+NutriBoost rasa kopi,3 g,30.0,3.0,19.0,3.0,14.0,100.0,0.0,5.0,Tidak Sehat
+Ultra Sari Kacang Ijo,2 g,90.0,2.0,22.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Quinoa,4.40 g,120.0,4.4,21.3,1.92,0.0,0.0,0.0,-1.0,Sehat
+Kacang tolo rebus,1.20 g,138.0,10.7,22.6,1.1,0.0,13.0,0.9,1.5,Sehat
+Lamtoro biji muda,Tidak Diketahui,1.2,85.0,5.7,15.4,0.3,0.0,35.0,0.5,Sehat
+Roma Malkist,2 g,120.0,2.0,19.0,4.5,3.0,0.0,0.0,2.5,Kurang Sehat
+Tahu Bakso,2.40 g,231.0,11.8,21.4,12.2,1.2,378.0,2.4,6.5,Tidak Sehat
+Sonice Bakso kuah sapi,8 g,160.0,8.0,20.0,5.0,0.0,0.0,0.0,0.0,Sehat
+Saladstop tingtong,13.50 g,843.4,30.6,83.3,46.2,14.5,1004.6,13.5,7.0,Tidak Sehat
+Takwa,1.60 g,148.0,13.8,4.0,8.5,0.0,3.0,0.0,0.5,Sehat
+Monde Boromon cookies original flavor,0 g,80.0,0.0,18.0,0.0,0.0,10.0,0.0,2.5,Kurang Sehat
+Keju Lemnos Grated Parmesan,0 g,38.0,3.3,1.0,5.6,1.0,0.0,0.0,2.5,Kurang Sehat
+Good Day Mocacinno,1 g,20.0,1.0,16.0,2.0,13.0,10.0,1.0,4.0,Kurang Sehat
+kacang garuda roste kacang panggang,5 g,130.0,5.0,16.0,5.0,0.0,115.0,0.0,1.5,Sehat
+Tepung Tales Banten,5.50 g,332.0,5.7,76.1,0.6,0.0,7.0,12.2,0.5,Sehat
+Coklat Toblerone,1 g,130.0,1.0,15.0,7.0,15.0,0.0,0.0,4.0,Kurang Sehat
+Es Krim Walls Cappuccino,1 g,70.0,1.0,19.0,8.0,10.0,15.0,1.0,5.5,Tidak Sehat
+Cashew,3.30 g,553.0,18.22,30.19,43.85,0.0,0.0,3.3,2.0,Sehat
+Kucai muda (lokio),Tidak Diketahui,1.8,42.0,3.8,7.8,0.6,0.0,22.0,3.0,Kurang Sehat
+Susu kuda,Tidak Diketahui,0.4,40.0,2.0,5.4,1.1,0.0,0.0,1.5,Sehat
+Eskrim cornetto oreo,2 g,240.0,2.0,33.0,11.0,20.0,0.0,2.0,4.5,Tidak Sehat
+Keripik Qtela ubi ungu,0 g,100.0,0.0,14.0,5.0,3.0,0.0,0.0,2.5,Kurang Sehat
+Susu Bear brand gold teh putih,4 g,70.0,4.0,10.0,2.0,0.0,0.0,0.0,0.0,Sehat
+Es teh tawar,0.02 g,2.0,0.02,0.67,0.0,0.0,0.0,0.0,0.0,Sehat
+susu tango kido rasa banana pudding,10 g,90.0,10.0,15.0,2.5,0.0,140.0,0.0,1.5,Sehat
+Biskuit WRP Everyday chocolate chip,2 g,100.0,1.0,11.0,5.0,0.0,0.0,2.0,-1.0,Sehat
+Ampas tahu mentah,0.60 g,67.0,5.0,8.1,2.1,0.0,8.0,4.1,1.5,Sehat
+Misoa,100.0 g,345.0,8.5,78.0,2.2,0.0,3064.0,0.5,3.0,Kurang Sehat
+biskuit Lotte choco pie,1 g,120.0,1.0,19.0,4.5,10.0,0.0,0.0,2.5,Kurang Sehat
+Srikaya ketan,0.80 g,265.0,2.7,49.1,6.4,0.0,0.0,0.0,3.0,Kurang Sehat
+Puffies Soes Crunchy Cheese,1 g,30.0,2.0,6.0,6.0,0.0,120.0,1.0,1.5,Sehat
+Pocky double choco,4 g,240.0,4.0,29.0,12.0,9.0,0.0,0.0,5.5,Tidak Sehat
+Mie sedap instan kari spesial,3 g,130.0,8.0,47.0,14.0,3.0,1060.0,3.0,6.0,Tidak Sehat
+Jasjus Rasa Lemon,0 g,25.0,0.0,6.0,0.0,5.0,15.0,0.0,5.0,Tidak Sehat
+Sagu rendang,1 g,364.0,0.1,90.5,0.2,0.0,42.0,1.9,3.0,Kurang Sehat
+Silverqueen Crispy with Milk Chocolate,4 g,170.0,4.0,15.0,10.0,11.0,35.0,0.0,7.5,Tidak Sehat
+Sukun tua,1 g,126.0,1.6,24.5,0.2,0.0,25.0,1.5,2.0,Sehat
+Lapis legit,0.90 g,389.0,6.6,55.5,15.7,0.0,0.0,0.5,2.0,Sehat
+Susu Ultra Milk Rasa Stroberi,6 g,30.0,6.0,22.0,3.5,17.0,50.0,0.0,4.0,Kurang Sehat
+Agar-agar double swallow sun,6 g,25.0,0.0,6.0,0.0,0.0,10.0,6.0,1.5,Sehat
+Cocoa powder Van Houten,6 g,120.0,6.0,15.0,4.0,0.0,0.0,0.0,-1.0,Sehat
+Jambu bool,Tidak Diketahui,0.8,49.0,2.3,9.6,0.2,0.0,1.0,0.5,Sehat
+Tiwul,1.60 g,353.0,2.4,83.4,1.1,0.0,5.0,6.5,0.5,Sehat
+Nissin Longer Stick Biscuits,2 g,50.0,2.0,21.0,6.0,5.0,85.0,0.0,5.0,Tidak Sehat
+Nasi coklat,2.30 g,112.0,2.3,23.5,0.8,0.0,0.0,0.0,0.5,Sehat
+Chicki Taro Net rasa BBQ,1 g,90.0,1.0,15.0,2.5,0.0,200.0,0.0,2.5,Kurang Sehat
+Saladstop Jai Ho,7.10 g,324.9,22.3,28.3,14.3,8.4,355.3,7.1,7.0,Tidak Sehat
+Chocodrink,2 g,20.0,2.0,23.0,2.5,18.0,100.0,0.0,5.5,Tidak Sehat
+Bayam rebus,1 g,23.0,1.2,3.7,0.6,0.0,16.0,1.1,1.5,Sehat
+Tahu,1.40 g,80.0,10.9,0.8,4.7,0.0,2.0,0.1,-1.0,Sehat
+Sariroti roti tawar double soft,3 g,140.0,4.0,23.0,3.0,1.0,105.0,3.0,4.5,Tidak Sehat
+Mcdonald Triple cheeseburger,2 g,520.0,32.0,36.0,28.0,7.0,0.0,2.0,4.5,Tidak Sehat
+Sagu singkong kering,0.30 g,362.0,0.5,86.9,0.3,0.0,0.0,0.0,1.5,Sehat
+Indomie Hype Abis Seblak Hot Jeletot,7 g,360.0,7.0,44.0,17.0,0.0,1190.0,0.0,4.5,Tidak Sehat
+Monde Boromon Cookies milk flavour,0 g,0.0,0.0,18.0,0.0,5.0,10.0,0.0,5.0,Tidak Sehat
+Frisian flag belgian chocolate low fat,7 g,150.0,7.0,25.0,2.5,19.0,100.0,0.0,4.5,Tidak Sehat
+Subway classic tuna sandwich,2 g,470.0,20.0,41.0,25.0,5.0,0.0,2.0,4.5,Tidak Sehat
+Eskrim Magnum classic,4 g,240.0,3.0,30.0,13.0,18.0,0.0,4.0,4.5,Tidak Sehat
+Keripik tempe,2.30 g,581.0,12.1,41.7,40.6,0.0,0.0,2.2,2.0,Sehat
+Susu Bubuk,5.70 g,513.0,24.6,36.2,30.0,0.0,380.0,0.0,4.5,Tidak Sehat
+Golden Farm french fries,3 g,170.0,3.0,29.0,4.5,0.0,0.0,0.0,1.5,Sehat
+Bakso ikan,11.27 g,107.0,11.27,11.72,1.23,0.0,255.0,0.0,1.5,Sehat
+Yogurt frozen pinkberry (Medium),0 g,240.0,9.0,50.0,0.0,47.0,0.0,0.0,3.0,Kurang Sehat
+PRONAS Classic chunky corned beef (340 g),2 g,70.0,8.0,2.0,3.5,0.0,410.0,2.0,1.5,Sehat
+Sayur lebui,0.90 g,64.0,2.1,12.5,0.6,0.0,124.0,5.7,1.5,Sehat
+Indomie rasa soto lamongan,6 g,130.0,10.0,48.0,14.0,4.0,1030.0,6.0,6.0,Tidak Sehat
+Elle vire yogurt,0.40 g,90.0,2.3,13.0,3.1,11.0,0.0,0.4,1.5,Sehat
+Markisa squash,0.20 g,217.0,2.5,49.6,1.0,0.0,14.0,0.0,4.0,Kurang Sehat
+Putu sopa,0.80 g,215.0,3.3,41.1,4.1,0.0,0.0,0.0,1.5,Sehat
+pop mie rasa soto ayam dengan nasi,3 g,250.0,7.0,48.0,15.0,5.0,1320.0,3.0,7.0,Tidak Sehat
+Geblek,1.40 g,195.0,0.4,44.4,1.7,0.0,353.0,3.6,3.0,Kurang Sehat
+Agar-agar swallow globe brand,8 g,20.0,0.0,8.0,0.0,0.0,0.0,8.0,-1.0,Sehat
+Permen Xylitol fresh mint,0 g,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Gambas (oyong),Tidak Diketahui,0.4,19.0,0.8,4.1,0.2,0.0,23.0,-1.0,Sehat
+Nasi tim,0.20 g,120.0,3.4,26.0,0.4,0.0,0.0,0.5,-0.5,Sehat
+Buah merah,0.40 g,87.0,2.6,13.1,2.7,0.0,110.0,4.0,1.5,Sehat
+Subway steak and cheese sandwich,2 g,360.0,24.0,43.0,10.0,5.0,0.0,2.0,4.5,Tidak Sehat
+Indofood Kecap Manis (135 ml),0 g,45.0,0.0,11.0,0.0,9.0,240.0,0.0,5.0,Tidak Sehat
+Tanderloin,20.53 g,151.0,20.53,0.01,7.63,0.0,0.0,0.0,0.5,Sehat
+Golden Farm frozen pea,7 g,90.0,7.0,12.0,1.0,3.0,0.0,0.0,1.5,Sehat
+White Anchovy Powder,3 g,15.0,3.0,0.0,0.0,0.0,70.0,0.0,2.5,Kurang Sehat
+Beef yakiniku,0.80 g,132.0,9.8,20.7,1.1,0.0,409.0,0.3,1.5,Sehat
+Mie Sedaap Instant Rasa Soto 75 g,2 g,340.0,8.0,46.0,13.0,3.0,1030.0,2.0,7.0,Tidak Sehat
+Entrasol Quick Start Chia Seeds,1 g,130.0,2.0,22.0,3.5,12.0,105.0,1.0,4.0,Kurang Sehat
+Ketupat kandangan,0.70 g,109.0,2.2,13.4,5.2,0.0,0.0,0.0,0.0,Sehat
+Hickory smoked BBQ  (classic wings),1 g,171.0,15.0,8.0,8.0,7.0,0.0,1.0,4.0,Kurang Sehat
+Susu bubuk dancow fullcream,0 g,120.0,5.0,13.0,6.0,0.0,90.0,0.0,1.5,Sehat
+Roma sari gandum,2 g,100.0,2.0,13.0,4.0,3.0,0.0,0.0,2.5,Kurang Sehat
+Cuka,0.30 g,21.0,0.1,5.0,0.1,0.0,21.0,0.0,2.5,Kurang Sehat
+Gadung kukus,0.80 g,88.0,0.6,20.9,0.3,0.0,6.0,0.9,-1.0,Sehat
+Lemon,Tidak Diketahui,0.3,34.0,0.5,6.2,0.8,0.0,31.0,1.5,Sehat
+Sariroti Sandwich kacang,2 g,140.0,5.0,18.0,6.0,2.0,135.0,2.0,4.0,Kurang Sehat
+Tauco cap meong,6.70 g,159.0,7.4,21.3,4.9,0.0,1547.0,1.6,1.5,Sehat
+donat Krispy kreme oreo chocolate cream,1 g,390.0,4.0,49.0,21.0,27.0,0.0,1.0,4.5,Tidak Sehat
+Khong guan malkist sayur,2 g,100.0,2.0,14.0,4.0,0.0,120.0,0.0,2.5,Kurang Sehat
+Kerupuk udang goreng,1.90 g,477.0,4.7,68.5,20.5,0.0,449.0,5.0,4.5,Tidak Sehat
+Mi kering,1.40 g,339.0,10.0,6.3,1.7,0.0,760.0,0.4,2.5,Kurang Sehat
+Taoge seduh,0.30 g,28.0,3.0,4.0,0.8,0.0,18.0,1.0,1.5,Sehat
+bebelac gold,2 g,50.0,6.0,24.0,6.0,17.0,75.0,2.0,4.5,Tidak Sehat
+Daun leunca,Tidak Diketahui,1.7,49.0,4.7,8.1,0.5,0.0,0.0,0.5,Sehat
+Daun gedi kecil,Tidak Diketahui,2.0,61.0,3.2,10.4,0.7,0.0,20.0,3.0,Kurang Sehat
+Cimory yogurt set,3 g,100.0,3.0,16.0,2.5,11.0,0.0,0.0,2.5,Kurang Sehat
+Royco kaldu ayam,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Tempe kacang babi,1.20 g,139.0,12.5,21.9,0.8,0.0,0.0,1.8,-1.0,Sehat
+SUP KRIM AYAM ROYCO,2 g,50.0,2.0,0.0,1.0,0.0,710.0,0.0,2.5,Kurang Sehat
+Sarimi Kaldu Ayam,2 g,320.0,4.0,45.0,12.0,11.0,670.0,2.0,7.0,Tidak Sehat
+Daun pakis wambateu,Tidak Diketahui,1.3,53.0,3.4,7.2,1.2,0.0,20.0,3.0,Kurang Sehat
+Daun bebuas,Tidak Diketahui,1.1,41.0,2.7,7.3,1.0,0.0,0.0,3.0,Kurang Sehat
+Jeruk garut-keprok,0.70 g,44.0,0.8,10.9,0.3,0.0,5.0,1.6,-1.0,Sehat
+Kue gelang,1 g,448.0,5.8,70.0,16.1,0.0,0.0,0.0,2.0,Sehat
+Sariroti Roti tawar,1 g,200.0,7.0,37.0,3.0,2.0,280.0,1.0,5.5,Tidak Sehat
+Hangop/Butter milk/Whey,1.50 g,65.0,10.0,3.5,1.0,0.0,126.0,0.0,1.5,Sehat
+Bagea kenari asin,1.30 g,529.0,3.2,63.6,29.1,0.0,74.0,0.0,5.5,Tidak Sehat
+Keripik bayam,1.90 g,586.0,4.9,50.2,40.6,0.0,0.0,0.5,2.0,Sehat
+Coklat silverqueen chunky almond bar,3 g,170.0,3.0,15.0,11.0,12.0,0.0,0.0,5.0,Tidak Sehat
+RITZ Creackers Original (isis 3 pack),2 g,140.0,2.0,20.0,6.0,0.0,115.0,0.0,2.5,Kurang Sehat
+Ichitan Thai Milk Tea,6 g,45.0,2.0,24.0,5.0,17.0,130.0,6.0,4.5,Tidak Sehat
+Indomie mi goreng,2 g,130.0,8.0,54.0,14.0,8.0,1070.0,2.0,6.0,Tidak Sehat
+Pop Ice Moccacino,1 g,15.0,1.0,22.0,1.5,15.0,30.0,0.0,5.0,Tidak Sehat
+Cokelat pasta,2 g,130.0,2.0,32.0,14.0,21.0,30.0,0.0,7.0,Tidak Sehat
+Kacang kedelai segar,4.10 g,286.0,30.2,30.1,15.6,0.0,28.0,2.9,4.5,Tidak Sehat
+Ubi jalar tinta / kemayung kukus,0.60 g,165.0,0.9,39.8,0.2,0.0,1.0,1.1,0.5,Sehat
+Frisian flag cokelat (kental manis),1 g,135.0,1.0,23.0,4.5,19.0,0.0,0.0,3.0,Kurang Sehat
+Bagea kelapa manis,1.30 g,452.0,1.3,80.6,13.8,0.0,75.0,0.0,5.5,Tidak Sehat
+Keremes,2.10 g,475.0,1.6,64.4,25.2,0.0,0.0,2.1,2.0,Sehat
+Paria putih,Tidak Diketahui,0.6,19.0,1.0,3.6,0.4,0.0,5.0,-1.0,Sehat
+Soto pemalang,Tidak Diketahui,1.7,75.0,3.6,3.5,5.2,0.0,0.0,1.5,Sehat
+Pundut nasi,1.10 g,104.0,1.9,15.1,4.1,0.0,74.0,0.4,1.5,Sehat
+Vodka,0.46 g,43.0,0.46,3.55,0.0,0.0,0.0,0.0,0.0,Sehat
+Pop Ice Mangga,1 g,15.0,1.0,22.0,1.5,15.0,15.0,0.0,5.0,Tidak Sehat
+Sardines dalam kaleng,3.80 g,338.0,21.1,1.0,27.0,0.0,0.0,0.0,1.5,Sehat
+Ovomaltine,0.80 g,109.0,0.8,11.9,6.4,10.9,50.0,0.0,6.5,Tidak Sehat
+Susu kedelai,2 g,41.0,3.5,5.0,2.5,0.0,128.0,0.2,1.5,Sehat
+Paku hinela wulelenggapaya,3.10 g,77.0,3.5,5.4,4.6,0.0,469.0,3.6,1.5,Sehat
+Keju greenfileds mozzarella,7 g,90.0,7.0,2.0,6.0,0.0,0.0,0.0,-1.0,Sehat
+Kratingdaeng Pro,0 g,120.0,0.0,27.0,0.0,27.0,0.0,0.0,3.0,Kurang Sehat
+Daun gandaria,Tidak Diketahui,1.6,63.0,3.1,14.0,0.3,0.0,3.0,0.5,Sehat
+Sagu aren kering,0.80 g,355.0,0.6,85.6,1.1,0.0,2.0,0.3,0.5,Sehat
+Ganyong rebus,1.10 g,100.0,0.8,23.8,0.2,0.0,0.0,0.9,-0.5,Sehat
+Roma : Biskuit Kelapa,2 g,130.0,2.0,19.0,5.0,6.0,90.0,0.0,5.0,Tidak Sehat
+Superco,1 g,80.0,1.0,13.0,3.0,4.0,80.0,0.0,5.0,Tidak Sehat
+Saus Sesame,1 g,100.0,1.0,4.0,9.0,0.0,260.0,0.0,4.0,Kurang Sehat
+Pepea oncom ampas tahu,1.50 g,76.0,5.2,10.6,1.8,0.0,0.0,2.2,-1.0,Sehat
+Nissin Assorted Biscuits,1 g,45.0,1.0,18.0,5.0,7.0,60.0,1.0,4.0,Kurang Sehat
+So you minuman kedelai,4 g,100.0,4.0,15.0,2.5,11.0,0.0,0.0,2.5,Kurang Sehat
+Sayur asem,0.80 g,29.0,0.7,5.0,0.6,0.0,0.0,0.6,-1.0,Sehat
+Lamtoro var. gung tanpa kulit,4.40 g,367.0,46.4,32.5,5.4,0.0,65.0,2.6,3.0,Kurang Sehat
+Khong guan Saltcheese,0 g,80.0,1.0,10.0,4.0,2.0,0.0,0.0,2.5,Kurang Sehat
+Tauco,100.0 g,184.0,11.4,22.2,5.5,0.0,1766.0,1.9,2.5,Kurang Sehat
+Saladstop Cobb,6.40 g,538.0,34.0,20.1,35.3,6.4,785.6,6.4,6.5,Tidak Sehat
+SOESNACK CHEESE,1 g,45.0,1.0,3.0,3.5,0.0,35.0,0.0,2.5,Kurang Sehat
+Vigus,1.20 g,44.0,2.4,8.3,0.1,0.0,2.0,0.0,0.0,Sehat
+permen xylitol jeruk nipis,0 g,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Taoge goreng,1.50 g,88.0,3.2,14.0,2.1,0.0,0.0,0.7,-1.0,Sehat
+Sariroti Sandwich pandan sarikaya,1 g,110.0,2.0,19.0,2.5,4.0,180.0,1.0,4.0,Kurang Sehat
+Garlic parmesan (classic wings),1 g,206.0,16.0,1.0,15.0,0.0,0.0,1.0,1.5,Sehat
+Monde Serena Egg Rolls Original,1 g,45.0,1.0,8.0,5.0,4.0,10.0,1.0,4.0,Kurang Sehat
+You C1000 Lemon Water,0 g,150.0,0.0,37.0,0.0,37.0,60.0,0.0,5.5,Tidak Sehat
+Gery Saluut Malkist,2 g,130.0,2.0,19.0,5.0,5.0,0.0,0.0,2.5,Kurang Sehat
+quaker instan oatmeal,4 g,140.0,4.0,24.0,3.5,0.0,0.0,0.0,0.5,Sehat
+Koro wedus / polong,0.80 g,46.0,3.0,7.9,0.3,0.0,2.0,3.3,-1.0,Sehat
+Sirup Sunquick Exotic,0 g,45.0,0.0,11.0,0.0,11.0,0.0,0.0,2.5,Kurang Sehat
+Bubur tinotuan (Manado),1 g,156.0,2.3,15.6,0.2,0.0,486.0,8.2,1.5,Sehat
+Tony roma's,72 g,1001.0,72.0,1.0,76.0,0.0,0.0,0.0,1.5,Sehat
+Frisian flag full cream,7 g,140.0,7.0,13.0,7.0,11.0,100.0,0.0,5.5,Tidak Sehat
+Pop Ice flavour strawberry,1 g,20.0,1.0,22.0,2.0,19.0,35.0,0.0,5.0,Tidak Sehat
+Teajus Madu,0 g,30.0,0.0,7.0,0.0,7.0,5.0,0.0,2.5,Kurang Sehat
+KitKat,1 g,90.0,1.0,10.0,5.0,0.0,15.0,0.0,2.5,Kurang Sehat
+Saus Hoisin,1 g,100.0,1.0,22.0,0.5,21.0,0.0,1.0,1.5,Sehat
+Keddo bodong,1 g,290.0,4.6,55.2,5.7,0.0,0.0,0.0,0.5,Sehat
+Buah negri,Tidak Diketahui,0.8,55.0,1.2,12.2,0.1,0.0,10.0,0.5,Sehat
+Rempeyek kacang tolo,2.80 g,451.0,11.2,59.7,20.2,0.0,0.0,1.8,2.0,Sehat
+Quiznos Black angus steakhouse,4 g,780.0,47.0,88.0,27.0,19.0,0.0,4.0,4.5,Tidak Sehat
+Kerupuk mie kuning goreng,0.30 g,476.0,0.1,71.3,21.1,0.0,0.0,4.2,2.0,Sehat
+Permen Fisherman's friend original,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Es krim,0.80 g,210.0,4.0,20.6,12.5,0.0,78.0,0.0,5.0,Tidak Sehat
+Tepung singkong / Tapioka,1.10 g,363.0,1.1,88.2,0.5,0.0,1.0,0.9,0.5,Sehat
+Buah atung,Tidak Diketahui,1.8,23.0,0.8,5.2,0.2,0.0,0.0,-1.0,Sehat
+Kue lumpur,1.10 g,291.0,3.6,44.1,11.1,0.0,0.0,0.0,3.0,Kurang Sehat
+Sedaap Tasty bakmi ayam,7 g,590.0,15.0,84.0,22.0,6.0,810.0,7.0,7.0,Tidak Sehat
+Shabu-shabu,0.90 g,88.0,3.2,0.8,8.0,0.0,514.0,0.9,3.0,Kurang Sehat
+Labu air,Tidak Diketahui,0.4,19.0,0.6,3.8,0.2,0.0,2.0,-1.0,Sehat
+Jeruk ragi,Tidak Diketahui,0.4,49.0,0.7,11.1,0.2,0.0,4.0,0.5,Sehat
+Susu greenfields full cream,1 g,160.0,8.0,12.0,9.0,7.0,0.0,1.0,4.0,Kurang Sehat
+Kobe Tepung Bumbu Serbaguna Special,1 g,0.0,2.0,13.0,0.0,0.0,450.0,1.0,1.5,Sehat
+Auntie anne sour cream and onion pretzel,2 g,360.0,9.0,68.0,5.0,12.0,0.0,2.0,3.0,Kurang Sehat
+Roti putih / roti tawar,0.80 g,248.0,8.0,50.0,1.2,0.0,530.0,9.1,3.0,Kurang Sehat
+Daun lompong talas,Tidak Diketahui,1.6,44.0,3.0,7.4,0.8,0.0,3.0,3.0,Kurang Sehat
+prenagen esensis susu bubuk rasa moka,7 g,150.0,7.0,29.0,1.0,0.0,110.0,0.0,2.0,Sehat
+BANGO kecap manis (400 ml),0 g,60.0,0.0,15.0,0.0,13.0,400.0,0.0,5.0,Tidak Sehat
+Gulai pliek,2.70 g,176.0,7.3,3.2,14.9,0.0,257.0,0.0,4.0,Kurang Sehat
+Kacang hijau rebus,1.20 g,109.0,8.7,18.3,0.5,0.0,447.0,1.5,1.5,Sehat
+Gendar goreng,3 g,407.0,6.4,32.0,28.2,0.0,0.0,0.1,2.0,Sehat
+Nestle air minum,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Dancow FortiGro rasa vanilla,5 g,50.0,5.0,14.0,6.0,11.0,90.0,0.0,4.0,Kurang Sehat
+Keju kraft quick melt,5 g,100.0,5.0,4.0,7.0,1.0,0.0,0.0,3.0,Kurang Sehat
+Haverjoy,8 g,140.0,3.0,25.0,3.5,0.0,0.0,8.0,-0.5,Sehat
+Hydromama,0 g,0.0,0.0,18.0,0.0,15.0,85.0,0.0,5.0,Tidak Sehat
+Biskuit Serena broniz,1 g,100.0,2.0,13.0,5.0,7.0,0.0,1.0,1.5,Sehat
+Pop Mie Goreng Pedas Gledek,6 g,370.0,6.0,45.0,18.0,0.0,930.0,0.0,4.5,Tidak Sehat
+Pop Mie PAKE NASI,7 g,350.0,7.0,48.0,15.0,0.0,1370.0,0.0,4.5,Tidak Sehat
+Yoshinoya Veggie beef bowl (Reguler bowl),5 g,650.0,24.0,95.0,20.0,4.0,0.0,5.0,4.5,Tidak Sehat
+SOYJOY FRUIT SOY BAR STRAWBERRY,3 g,40.0,4.0,19.0,4.5,11.0,30.0,3.0,4.0,Kurang Sehat
+Teajus Rasa Lemon,0 g,0.0,0.0,6.0,0.0,5.0,0.0,0.0,2.5,Kurang Sehat
+Nasi gemuk,1.60 g,192.0,3.8,24.4,8.8,0.0,355.0,0.7,4.5,Tidak Sehat
+Frisian flag coconut delight,6 g,160.0,6.0,25.0,5.0,14.0,95.0,0.0,5.5,Tidak Sehat
+Bumbu Nasi Goreng Royco,0 g,10.0,0.0,2.0,0.0,0.0,520.0,0.0,2.5,Kurang Sehat
+Sarden abc extra pedas,9 g,5.0,9.0,3.0,1.0,0.0,260.0,0.0,1.5,Sehat
+Gowell sereal & susu rasa taro,2 g,120.0,2.0,23.0,2.5,0.0,165.0,0.0,3.0,Kurang Sehat
+Subway spicy italian sandwich,3 g,470.0,19.0,43.0,24.0,6.0,0.0,3.0,4.5,Tidak Sehat
+Srikaya,1.10 g,63.0,1.1,13.9,0.5,0.0,0.0,2.1,-1.0,Sehat
+Kacang kapri segar,0.90 g,98.0,6.7,17.7,0.4,0.0,6.0,6.2,-1.0,Sehat
+Kapri muda,Tidak Diketahui,0.7,45.0,3.3,9.0,0.2,0.0,2.0,0.5,Sehat
+Cadbury Dairy Milk,2 g,160.0,2.0,18.0,2.0,15.0,0.0,0.0,3.5,Kurang Sehat
+Coklat Delfi dairy milk,2 g,150.0,2.0,15.0,9.0,12.0,0.0,0.0,4.0,Kurang Sehat
+Daun bangun-bangun,Tidak Diketahui,1.6,27.0,1.3,4.0,0.6,0.0,4.0,1.5,Sehat
+Daun bawang merah,Tidak Diketahui,0.8,41.0,2.0,7.8,0.3,0.0,30.0,0.5,Sehat
+Daun belem,Tidak Diketahui,1.8,50.0,4.4,7.8,1.4,0.0,0.0,3.0,Kurang Sehat
+Daun singkong kopang,Tidak Diketahui,1.2,74.0,6.3,10.7,0.7,0.0,32.0,3.0,Kurang Sehat
+Mangga kopek,Tidak Diketahui,0.3,56.0,0.4,14.6,0.2,0.0,2.0,0.5,Sehat
+Yoshinoya Beef bowl (Reguler bowl),3 g,730.0,30.0,91.0,27.0,5.0,0.0,3.0,4.5,Tidak Sehat
+Yoshinoya Teriyaki (Reguler bowl),5 g,790.0,48.0,110.0,18.0,16.0,0.0,5.0,4.5,Tidak Sehat
+Chatime milk tea(no sugar),1.50 g,142.0,1.5,5.0,13.0,1.0,0.0,0.0,4.0,Kurang Sehat
+"Sereal ENERGEN ""Kacang Hijau""",1 g,25.0,2.0,24.0,3.0,16.0,70.0,1.0,4.5,Tidak Sehat
+Energen Oat milk,2 g,100.0,3.0,16.0,2.0,1.0,0.0,2.0,1.5,Sehat
+Saus sambal,0 g,27.0,0.0,6.7,0.0,6.5,0.0,0.0,2.5,Kurang Sehat
+Saus tomat,0.18 g,17.0,0.18,4.66,0.02,3.62,0.0,0.0,2.5,Kurang Sehat
+Saus Teriyaki,0 g,15.0,0.0,4.0,0.0,3.0,0.0,0.0,2.5,Kurang Sehat
+Kesemek,Tidak Diketahui,0.6,78.0,0.8,20.0,0.4,0.0,0.0,0.5,Sehat
+Chatime milk tea,1.50 g,302.0,1.5,44.5,13.0,39.5,0.0,0.0,5.5,Tidak Sehat
+Daging kambing (segar),3.90 g,149.0,16.6,0.0,9.2,0.0,96.0,0.0,3.0,Kurang Sehat
+Gulai kambing,1.80 g,126.0,4.2,6.2,9.4,0.0,302.0,0.0,3.0,Kurang Sehat
+Kacang tanah sari,2.60 g,561.0,25.5,26.0,43.8,0.0,0.0,2.2,2.0,Sehat
+Tempe pasar,0.90 g,150.0,14.0,9.1,7.7,0.0,7.0,1.4,0.5,Sehat
+Diabetasol (vanilla malt),3 g,170.0,8.0,26.0,4.0,0.0,0.0,3.0,0.5,Sehat
+Indomie soto padang,6 g,330.0,8.0,44.0,14.0,0.0,0.0,6.0,2.0,Sehat
+Batatas kelapa bakar,0.70 g,110.0,1.4,23.4,1.1,0.0,12.0,4.5,2.0,Sehat
+Selai Nutella,2 g,200.0,2.0,23.0,12.0,0.0,0.0,0.0,3.0,Kurang Sehat
+Peanut,8.50 g,567.0,25.8,16.13,49.24,0.0,0.0,8.5,1.5,Sehat
+Kacang walnut,6.70 g,654.0,15.23,13.71,65.21,0.0,0.0,6.7,1.5,Sehat
+Langsat,Tidak Diketahui,0.5,56.0,0.9,14.3,0.2,0.0,1.0,0.5,Sehat
+Bubur sagu,0.30 g,167.0,0.2,33.0,4.0,0.0,7.0,0.0,1.5,Sehat
+Promina smooth kacang hijau,8 g,210.0,8.0,35.0,4.5,0.0,150.0,0.0,3.0,Kurang Sehat
+Prunes (kering),7.10 g,240.0,2.18,63.88,0.38,0.0,0.0,7.1,0.5,Sehat
+Salak pondoh,0.80 g,87.0,0.8,20.1,0.4,0.0,0.0,0.0,0.0,Sehat
+Lumpia Sayur,0.60 g,63.0,1.99,7.44,2.84,0.75,207.0,0.6,4.0,Kurang Sehat
+Lumpia ayam,0.50 g,65.0,3.03,7.12,2.61,0.37,124.0,0.5,1.5,Sehat
+Hokben Bento special 1,24.20 g,612.0,24.2,74.8,23.6,0.0,0.0,0.0,2.0,Sehat
+Hokben paket B,26.30 g,522.0,26.3,52.8,22.4,0.0,0.0,0.0,2.0,Sehat
+Hoka hemat 4,20.30 g,413.0,20.3,47.2,15.3,0.0,0.0,0.0,2.0,Sehat
+Hokben Paket C,35.40 g,625.0,35.4,64.0,24.1,0.0,0.0,0.0,2.0,Sehat
+Kwark / Bagot,2 g,242.0,19.0,3.0,17.0,0.0,37.0,0.0,4.0,Kurang Sehat
+Sawi hijau,Tidak Diketahui,1.2,28.0,2.3,4.0,0.3,0.0,22.0,-1.0,Sehat
+Sawi putih / pecai,Tidak Diketahui,0.6,9.0,1.0,1.7,0.1,0.0,5.0,-1.0,Sehat
+san remo pasta sauce bolognese mushroom,2.10 g,77.0,2.1,8.6,3.6,4.8,0.0,0.0,2.5,Kurang Sehat
+Pasta La fonte spaghetti with bolognese sauce,6 g,420.0,10.0,93.0,0.0,0.0,0.0,6.0,0.5,Sehat
+La pasta royale cheese bolognese,8 g,340.0,10.0,64.0,6.0,10.0,0.0,8.0,3.0,Kurang Sehat
+MR.P Garlic peanut,6 g,240.0,6.0,14.0,17.0,0.0,0.0,0.0,1.5,Sehat
+Mr. Bread Roti manis pandan coklat srikaya,7 g,330.0,7.0,50.0,11.0,12.0,330.0,0.0,7.0,Tidak Sehat
+Mangga kwini,Tidak Diketahui,0.4,86.0,0.7,19.8,0.5,0.0,1.0,0.5,Sehat
+Wine,0.07 g,83.0,0.07,2.72,0.0,0.0,0.0,0.0,0.0,Sehat
+Sonice Chicken wing,20 g,220.0,20.0,4.0,14.0,0.0,0.0,0.0,1.5,Sehat
+Pizza hut super supreme,3 g,410.0,16.0,37.0,22.0,2.0,0.0,3.0,4.5,Tidak Sehat
+Apel malang,Tidak Diketahui,0.3,57.0,0.5,12.8,0.4,0.0,3.6,0.5,Sehat
+Apel,Tidak Diketahui,0.3,58.0,0.3,14.9,0.4,0.0,2.0,0.5,Sehat
+Beetroot (mentah),1.61 g,43.0,1.61,9.56,0.17,0.0,0.0,0.0,0.0,Sehat
+French fries 2000 dengan saos sambal colek,0 g,45.0,0.0,8.0,1.5,0.0,125.0,0.0,2.5,Kurang Sehat
+Saori Saus Mentega,0 g,0.0,0.0,2.0,0.0,0.0,200.0,0.0,2.5,Kurang Sehat
+Pizza hut super supreme personal,1 g,170.0,7.0,17.0,9.0,2.0,0.0,1.0,4.0,Kurang Sehat
+Super bihun kuah,3 g,190.0,4.0,36.0,2.5,0.0,1190.0,3.0,3.0,Kurang Sehat
+Super bihun goreng,4 g,250.0,4.0,46.0,5.0,3.0,0.0,4.0,3.0,Kurang Sehat
+Burger Carl's Jr super star with cheese,4 g,920.0,48.0,59.0,56.0,13.0,0.0,4.0,4.5,Tidak Sehat
+Coca cola,0.26 g,136.0,0.26,35.18,0.07,0.0,0.0,0.0,0.5,Sehat
+Gulai pakis,2.60 g,143.0,4.0,6.0,11.4,0.0,0.0,1.4,0.5,Sehat
+Hydro coco,7 g,60.0,0.0,18.0,0.0,10.0,0.0,7.0,1.5,Sehat
+Tim tam chocolate,2 g,150.0,2.0,21.0,7.0,0.0,0.0,0.0,1.5,Sehat
+Loacker chocolate,7.70 g,511.0,7.7,59.0,26.0,0.0,0.0,0.0,2.0,Sehat
+Tango chocolate,1 g,100.0,1.0,14.0,4.0,0.0,0.0,0.0,0.0,Sehat
+Klepon,4.75 g,366.0,4.75,65.82,9.34,0.0,79.0,0.0,4.5,Tidak Sehat
+Geplak,1 g,350.0,1.4,53.6,14.4,0.0,0.0,1.8,2.0,Sehat
+Kalakai,Tidak Diketahui,0.9,38.0,2.4,6.6,0.2,0.0,7.0,0.5,Sehat
+Yakult,1 g,50.0,1.0,11.0,0.0,10.0,0.0,0.0,2.5,Kurang Sehat
+Susu kedelai V Soy Multigrain,6.10 g,169.0,6.1,20.4,6.9,16.3,0.0,0.0,4.0,Kurang Sehat
+Multigrain Bread,8 g,240.0,8.0,38.0,6.0,5.0,0.0,0.0,3.0,Kurang Sehat
+Beberuk,1.10 g,65.0,1.1,3.5,5.2,0.0,53.0,3.1,1.5,Sehat
+Sagu kasbi segar,0.20 g,230.0,0.6,56.5,0.2,0.0,100.0,3.0,3.0,Kurang Sehat
+Kedongdong masak,Tidak Diketahui,0.6,46.0,1.0,10.3,0.1,0.0,2.0,0.5,Sehat
+Tauji cap singa,6.20 g,277.0,9.1,49.6,4.7,0.0,0.0,1.2,0.5,Sehat
+So good Almond milk original,0.70 g,74.0,1.4,9.0,3.4,8.6,0.0,0.7,1.5,Sehat
+Susu almond So good Almond Milk unsweetend,0.80 g,41.0,1.4,0.8,3.5,0.3,0.0,0.8,-1.0,Sehat
+Pocky Chocolate,3 g,230.0,3.0,32.0,10.0,12.0,0.0,0.0,5.5,Tidak Sehat
+Pocky Cookies dan cream,3 g,210.0,3.0,26.0,10.0,11.0,0.0,0.0,5.5,Tidak Sehat
+Pocky Strawberry,3 g,220.0,3.0,31.0,10.0,9.0,0.0,0.0,5.5,Tidak Sehat
+Buavita royale sunshine carrot,2 g,120.0,0.0,28.0,0.0,25.0,0.0,2.0,2.0,Sehat
+Buavita royale chloro broccoli,0 g,120.0,0.0,29.0,0.0,27.0,0.0,0.0,3.0,Kurang Sehat
+Ades,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Ademsari chingku,0 g,110.0,0.0,27.0,0.0,25.0,0.0,0.0,3.0,Kurang Sehat
+Sprite (kaleng),0 g,100.0,0.0,25.0,0.0,25.0,0.0,0.0,3.0,Kurang Sehat
+Chicken teriyaki,1.70 g,168.0,13.0,7.5,9.6,0.0,959.0,0.8,4.0,Kurang Sehat
+Kura-kura,Tidak Diketahui,0.7,83.0,19.1,0.0,0.2,0.0,0.0,-1.0,Sehat
+Kuro,Tidak Diketahui,0.9,87.0,16.0,1.0,2.2,0.0,0.0,1.5,Sehat
+Mcdonald Cheeseburger,2 g,300.0,15.0,33.0,12.0,7.0,0.0,2.0,4.5,Tidak Sehat
+Mcdonald Big mac burger,3 g,540.0,25.0,46.0,28.0,9.0,0.0,3.0,4.5,Tidak Sehat
+Mcdonald Hamburge,1 g,250.0,13.0,31.0,8.0,6.0,0.0,1.0,4.5,Tidak Sehat
+Lovy cookies chocobutter,2 g,150.0,2.0,20.0,8.0,8.0,0.0,0.0,4.0,Kurang Sehat
+Lovy cookies coffeeccino,2 g,150.0,2.0,20.0,7.0,7.0,0.0,0.0,4.0,Kurang Sehat
+Susu bebelove 6-12bln,0.80 g,140.0,3.0,18.0,6.0,16.2,64.0,0.8,4.0,Kurang Sehat
+Promina milky beras merah,8 g,210.0,8.0,35.0,4.5,0.0,150.0,0.0,3.0,Kurang Sehat
+Promina pisang susu,8 g,210.0,8.0,35.0,4.5,0.0,150.0,0.0,3.0,Kurang Sehat
+Mangga indramayu,Tidak Diketahui,0.1,72.0,0.8,18.7,0.2,0.0,3.0,0.5,Sehat
+Maestro light Mayonnaise,0 g,50.0,0.0,7.0,5.0,0.0,130.0,0.0,2.5,Kurang Sehat
+La Fonte Fettuccine-30 Pasta,2 g,0.0,8.0,45.0,0.0,3.0,40.0,2.0,4.5,Tidak Sehat
+Daun jampang,Tidak Diketahui,1.5,34.0,3.8,5.3,0.5,0.0,0.0,-1.0,Sehat
+sambal pecel,9 g,220.0,9.0,23.0,10.0,0.0,0.0,0.0,2.0,Sehat
+Cerebrofort Marine Gummy Strawberry,1 g,0.0,1.0,8.0,0.0,6.0,10.0,0.0,5.0,Tidak Sehat
+Pecel sayur dengan lauk,25.17 g,408.0,25.17,27.07,25.18,0.0,272.0,0.0,4.5,Tidak Sehat
+Teh celup sosro,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+teh cap dandang black tea,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Bawang merah,Tidak Diketahui,1.0,46.0,1.5,9.2,0.3,0.0,7.0,0.5,Sehat
+Balichong,3.60 g,152.0,13.2,22.9,0.8,0.0,120.0,1.5,1.5,Sehat
+Batatas kelapa kukus,1.80 g,92.0,1.2,21.0,0.3,0.0,10.0,4.1,1.5,Sehat
+Kuaci Rebo origial,3 g,110.0,5.0,3.0,9.0,0.0,130.0,3.0,3.0,Kurang Sehat
+KFC Original recipe dada,39 g,390.0,39.0,11.0,21.0,0.0,0.0,0.0,1.5,Sehat
+KFC Original recipe paha bawah,12 g,130.0,12.0,4.0,8.0,0.0,0.0,0.0,0.5,Sehat
+KFC Original recipe paha atas,19 g,280.0,19.0,8.0,19.0,0.0,0.0,0.0,1.5,Sehat
+KFC Original recipe sayap,10 g,130.0,10.0,3.0,8.0,0.0,0.0,0.0,0.5,Sehat
+Kue bangket,0.90 g,388.0,1.5,80.3,1.2,0.0,67.0,0.0,4.0,Kurang Sehat
+Lengkuas/Boros laja,Tidak Diketahui,1.0,26.0,1.0,4.7,0.3,0.0,24.0,-1.0,Sehat
+Tummy yogurt mango carrot,11 g,150.0,3.0,29.0,2.0,18.0,0.0,11.0,2.0,Sehat
+Corn flakes,1 g,110.0,2.0,26.0,0.0,3.0,0.0,1.0,2.0,Sehat
+Eskrim cornetto chocolate,2 g,260.0,3.0,34.0,12.0,22.0,0.0,2.0,4.5,Tidak Sehat
+Kerokot,Tidak Diketahui,1.1,26.0,1.7,3.8,0.4,0.0,4.0,-1.0,Sehat
+Coklat Lindt 70% Cocoa smooth dark,3 g,250.0,3.0,17.0,19.0,12.0,0.0,3.0,4.0,Kurang Sehat
+Teh Kotak Less Sugar,0 g,70.0,0.0,19.0,0.0,0.0,5.0,0.0,0.0,Sehat
+Granola creation tropical fruit and nuts,2 g,162.0,7.0,23.0,5.0,5.0,0.0,2.0,3.0,Kurang Sehat
+Go Natural fruit and nut delight,5.40 g,230.0,6.2,20.7,13.5,12.1,0.0,5.4,4.0,Kurang Sehat
+Carman's fruit and nut,3.10 g,183.0,4.1,25.1,6.7,7.8,0.0,3.1,4.5,Tidak Sehat
+Sonice Chicken Stick,13 g,250.0,13.0,13.0,17.0,0.0,0.0,0.0,1.5,Sehat
+Sonice Chicken karage,12 g,300.0,12.0,21.0,18.0,0.0,0.0,0.0,1.5,Sehat
+lontong,1.20 g,144.0,2.76,31.76,0.23,0.12,0.0,1.2,-0.5,Sehat
+Cimory Soyamilk,10 g,260.0,10.0,42.0,6.0,18.0,0.0,0.0,3.0,Kurang Sehat
+Cimory yogurt set low fat,5 g,60.0,5.0,8.0,1.5,0.0,0.0,0.0,-1.0,Sehat
+Cimory yogurt drink,26 g,180.0,6.0,32.0,2.0,0.0,0.0,26.0,0.5,Sehat
+Salak bali,0.70 g,57.0,0.5,13.6,0.1,0.0,0.0,1.3,-1.0,Sehat
+Salak medan,8.50 g,55.0,0.4,12.8,0.2,0.0,39.0,3.2,1.5,Sehat
+Salak,0.70 g,77.0,0.4,20.9,0.0,0.0,0.0,0.0,0.0,Sehat
+Jamur tiram,Tidak Diketahui,0.6,30.0,1.9,5.5,0.1,0.0,22.0,-1.0,Sehat
+Rujak cingur,1.40 g,153.0,11.3,8.0,8.4,0.0,0.0,1.4,0.5,Sehat
+Pisang angleng (pisang ampyang),Tidak Diketahui,1.0,68.0,1.3,17.2,0.2,0.0,23.0,0.5,Sehat
+Anggur hutan,Tidak Diketahui,0.2,30.0,0.5,6.8,0.2,0.0,0.0,0.5,Sehat
+kopi kapal api special mix,1 g,100.0,1.0,23.0,1.0,0.0,10.0,0.0,3.0,Kurang Sehat
+WRP truil bar,2 g,80.0,1.0,14.0,3.5,7.0,0.0,2.0,1.5,Sehat
+WRP deli chips,3 g,210.0,1.0,26.0,11.0,1.0,0.0,3.0,4.5,Tidak Sehat
+Arwan sirsir,2.90 g,277.0,2.4,10.7,25.0,0.0,240.0,4.6,4.0,Kurang Sehat
+Sirsak,0.70 g,65.0,1.0,16.3,0.3,0.0,2.0,3.2,-1.0,Sehat
+Gula putih / Gula Pasir,0.60 g,394.0,0.0,94.0,0.0,0.0,1.0,0.0,1.5,Sehat
+Sirup,1 g,213.0,0.0,55.0,0.0,0.0,3.0,0.0,1.5,Sehat
+yoghurt cimory,5 g,180.0,6.0,36.0,2.0,26.0,90.0,5.0,5.5,Tidak Sehat
+Kelapa parut,3 g,283.0,3.0,10.0,27.0,0.0,0.0,0.0,2.5,Kurang Sehat
+Ikan Layur,Tidak Diketahui,0.5,82.0,18.0,0.4,1.0,0.0,0.0,1.5,Sehat
+Lays krim dan bawang,2 g,110.0,2.0,11.0,6.0,0.0,0.0,0.0,0.0,Sehat
+Bunga pepaya,Tidak Diketahui,1.7,45.0,2.6,8.1,0.3,0.0,2.0,0.5,Sehat
+Erbis,Tidak Diketahui,0.5,70.0,0.6,18.9,0.0,0.0,21.0,0.5,Sehat
+Jagung titi,0.10 g,374.0,9.4,79.1,2.2,0.0,0.0,0.8,0.5,Sehat
+Del Monte Barbaque Sauce (250 g),0 g,60.0,0.0,14.0,0.0,10.0,880.0,0.0,5.0,Tidak Sehat
+Kacang belimbing rebus,1.20 g,204.0,16.9,17.5,8.8,0.0,43.0,4.8,4.0,Kurang Sehat
+Tempe kacang belimbing,1.40 g,212.0,17.5,12.9,10.0,0.0,0.0,2.9,1.5,Sehat
+Belimbing,Tidak Diketahui,0.4,36.0,0.4,8.8,0.4,0.0,4.0,0.5,Sehat
+Nutrisari Es Rujak,0 g,50.0,0.0,12.0,0.0,10.0,150.0,0.0,5.0,Tidak Sehat
+Rujak lontong,11.98 g,243.0,11.98,24.7,12.3,0.0,278.0,0.0,4.5,Tidak Sehat
+Belitung kukus,1.10 g,145.0,1.2,34.2,0.4,0.0,7.0,1.0,-0.5,Sehat
+Enting-enting gepuk kacang tanah,1.40 g,524.0,13.3,52.0,29.2,0.0,0.0,0.2,2.0,Sehat
+Pisang kepok rebus,1.55 g,145.0,1.55,37.91,0.44,0.0,5.0,0.0,0.5,Sehat
+Meiji Plain Crackers with Oat,2 g,120.0,3.0,19.0,3.5,0.0,120.0,2.0,1.5,Sehat
+Meiji Plain Crackers (isi 4 bungkus),2 g,120.0,3.0,19.0,3.5,1.0,125.0,2.0,4.0,Kurang Sehat
+Barongko,0.70 g,159.0,3.1,23.5,5.8,0.0,46.0,0.0,3.0,Kurang Sehat
+Saladstop Omega 3 baby,6.70 g,391.3,17.3,18.6,28.7,9.6,0.0,6.7,4.0,Kurang Sehat
+Blue Band,0 g,90.0,0.0,0.0,10.0,0.0,125.0,0.0,4.0,Kurang Sehat
+Gilus mix sensasi aroma pandan (isi 10 sachet),1 g,90.0,1.0,21.0,0.5,17.0,0.0,0.0,2.5,Kurang Sehat
+Sasa Santan Kelapa,0 g,35.0,0.0,1.0,4.0,0.0,15.0,0.0,2.5,Kurang Sehat
+Sasa Santan Kelapa Coconut Cream,0 g,35.0,0.0,1.0,4.0,0.0,15.0,0.0,2.5,Kurang Sehat
+Sasa Tepung Bakwan,0 g,0.0,1.0,8.0,0.0,1.0,150.0,0.0,5.0,Tidak Sehat
+Goldenfil Choco Crunchy,1 g,30.0,1.0,13.0,6.0,10.0,20.0,0.0,5.0,Tidak Sehat
+san remo sauce tomato basil,2 g,96.0,2.0,11.5,4.6,7.4,0.0,0.0,2.5,Kurang Sehat
+Silky Pudding Coklat,3 g,130.0,3.0,23.0,3.5,0.0,35.0,0.0,3.0,Kurang Sehat
+Kacang kedelai rebus,2.10 g,189.0,20.2,12.7,8.2,0.0,181.0,1.6,4.0,Kurang Sehat
+Emping komak,2.70 g,355.0,17.8,60.7,4.6,0.0,24.0,0.0,3.0,Kurang Sehat
+Chatime hazelnut milk tea,1 g,244.0,1.0,36.0,10.5,28.5,0.0,0.0,5.5,Tidak Sehat
+Chatime hazelnut milk tea (no sugar),1 g,185.0,1.0,20.5,11.0,15.0,0.0,0.0,5.0,Tidak Sehat
+gastone lago poker wafer with hazelnut cream,1 g,130.0,1.0,17.0,6.0,0.0,35.0,0.0,2.5,Kurang Sehat
+Mom's Recipe Silky Pudding rasa cokelat (155 g),3 g,130.0,3.0,23.0,3.5,17.0,35.0,0.0,5.5,Tidak Sehat
+Mom's Recipe Silky Pudding rasa permen karet (155 g),3 g,130.0,3.0,24.0,3.0,17.0,40.0,0.0,5.5,Tidak Sehat
+Kewpie mayonais original,1 g,100.0,1.0,0.0,11.0,0.0,70.0,0.0,4.0,Kurang Sehat
+Kewpie Thousand island,1 g,70.0,1.0,4.0,6.0,0.0,260.0,0.0,2.5,Kurang Sehat
+Kewpie Tomat pedas,1 g,80.0,1.0,5.0,6.0,0.0,350.0,0.0,2.5,Kurang Sehat
+Kewpie Wijen sangrai,1 g,90.0,1.0,5.0,7.0,0.0,190.0,0.0,4.0,Kurang Sehat
+Kentang,Tidak Diketahui,0.8,62.0,2.1,13.5,0.2,0.0,7.0,0.5,Sehat
+Happytos,1 g,144.0,2.0,16.0,7.0,0.0,0.0,1.0,0.5,Sehat
+japato potato chips rasa happy honey butter,1 g,100.0,1.0,13.0,5.0,0.0,270.0,0.0,2.5,Kurang Sehat
+Happy Tos Corn Chips,1 g,130.0,2.0,16.0,6.0,1.0,100.0,1.0,4.0,Kurang Sehat
+Yoshinoya Beef bowl (Large bowl),5 g,1040.0,43.0,131.0,38.0,8.0,0.0,5.0,4.5,Tidak Sehat
+Yoshinoya Teriyaki (Large bowl),9 g,1140.0,66.0,165.0,25.0,25.0,0.0,9.0,4.5,Tidak Sehat
+Daun ubi tinta,Tidak Diketahui,1.2,55.0,1.7,11.9,0.1,0.0,10.0,0.5,Sehat
+Sukun muda,1 g,119.0,1.4,28.1,0.2,0.0,24.0,1.4,2.0,Sehat
+Kacang tanah sangan tanpa selaput,2.70 g,559.0,26.9,23.6,44.2,0.0,33.0,2.6,4.5,Tidak Sehat
+Daun selasih,Tidak Diketahui,1.9,62.0,4.0,10.5,0.5,0.0,3.0,0.5,Sehat
+Peterseli,Tidak Diketahui,2.4,53.0,3.7,9.0,1.0,0.0,18.0,3.0,Kurang Sehat
+Kenari kering,3 g,657.0,15.0,13.0,66.0,0.0,3.0,0.0,1.5,Sehat
+Daun pepaya,Tidak Diketahui,2.7,87.0,8.0,11.9,2.0,0.0,4.0,3.0,Kurang Sehat
+Jamur encik,2.70 g,296.0,9.4,62.0,0.1,0.0,2.0,0.0,0.5,Sehat
+French fries,4 g,380.0,5.0,53.0,17.0,0.0,0.0,4.0,2.0,Sehat
+Curry Croquette,1 g,180.0,1.0,21.0,9.0,1.0,0.0,1.0,4.0,Kurang Sehat
+Jantung pisang segar,1.20 g,32.0,1.2,7.1,0.3,0.0,3.0,3.2,-1.0,Sehat
+Jeruk nipis,Tidak Diketahui,0.4,44.0,0.5,10.0,0.2,0.0,3.0,0.5,Sehat
+Ayam brand tuna dalam air,13 g,50.0,13.0,0.0,0.0,0.0,0.0,0.0,-1.0,Sehat
+Daun matel ambon,Tidak Diketahui,3.0,71.0,6.8,11.5,1.6,0.0,0.0,3.0,Kurang Sehat
+WRP lose weight meal replacement,3 g,15.0,14.0,35.0,1.5,16.0,260.0,3.0,4.5,Tidak Sehat
+Ayam bacem,13.70 g,147.0,13.7,8.3,6.7,0.0,0.0,0.0,0.5,Sehat
+Tahu bacem,1.90 g,24.0,1.9,1.09,1.47,0.0,34.0,0.0,2.5,Kurang Sehat
+cemcem pilus rasa keju panggang,1 g,100.0,1.0,13.0,5.0,0.0,270.0,0.0,2.5,Kurang Sehat
+Pronas kornet ayam,2 g,70.0,5.0,5.0,3.0,0.0,0.0,2.0,-1.0,Sehat
+Bentul kukus,0.90 g,71.0,2.3,15.4,0.3,0.0,0.0,0.5,-1.0,Sehat
+Nanas palembang,Tidak Diketahui,0.3,58.0,0.7,13.3,0.2,0.0,7.0,0.5,Sehat
+Esprecielo caramel macchiato,0 g,110.0,1.0,17.0,4.0,10.0,0.0,0.0,2.5,Kurang Sehat
+Starbucks Espresso Brownie,4 g,370.0,4.0,43.0,21.0,30.0,115.0,0.0,8.0,Tidak Sehat
+Piatos iga penyet,0 g,60.0,0.0,7.0,3.5,0.0,80.0,0.0,2.5,Kurang Sehat
+piattos iga penyet,1 g,60.0,1.0,13.0,7.0,0.0,160.0,0.0,4.0,Kurang Sehat
+Pia 100 Rasa Kacang Hijau,2 g,100.0,2.0,17.0,3.0,0.0,15.0,0.0,2.5,Kurang Sehat
+japato potato chips rasa rumput laut,1 g,150.0,1.0,15.0,10.0,0.0,150.0,0.0,4.0,Kurang Sehat
+Pork rib,19.90 g,211.0,19.9,0.0,12.01,0.0,0.0,0.0,1.5,Sehat
+Kacang tanah sangan,2.10 g,560.0,29.5,24.1,43.0,0.0,34.0,2.9,4.5,Tidak Sehat
+Frozen food Puff Pastry Sheet,3 g,200.0,3.0,18.0,13.0,0.0,0.0,0.0,2.5,Kurang Sehat
+Cheetos Puffs,0.90 g,160.0,2.0,16.0,10.0,0.9,0.0,0.9,4.0,Kurang Sehat
+Promina puff rasa blueberry,1 g,80.0,1.0,10.0,3.0,0.0,0.0,0.0,0.0,Sehat
+Floridina Orange Pulp & Coco Bitz,0 g,90.0,0.0,21.0,0.0,19.0,25.0,0.0,5.0,Tidak Sehat
+Minute Maid Pulpy rasa jambu,0 g,0.0,0.0,23.0,0.0,22.0,20.0,0.0,5.5,Tidak Sehat
+Minute Maid Pulpy rasa jeruk,0 g,130.0,0.0,34.0,0.0,27.0,45.0,0.0,5.5,Tidak Sehat
+Minute Maid Pulpy rasa anggur dengan nata de coco,0 g,0.0,0.0,28.0,0.0,24.0,10.0,0.0,5.5,Tidak Sehat
+kentang rebus,2.50 g,76.0,1.37,17.72,0.14,5.74,27.0,2.5,4.0,Kurang Sehat
+Jawara cabai tabur jambal,0 g,10.0,0.0,2.0,0.0,0.0,150.0,0.0,2.5,Kurang Sehat
+Jawara cabai tabur bawang goreng,0 g,10.0,0.0,2.0,0.0,0.0,150.0,0.0,2.5,Kurang Sehat
+Red Bull,0 g,112.0,0.0,28.0,0.0,0.0,0.0,0.0,0.5,Sehat
+Sushi red bull roll,1 g,484.0,28.0,72.0,7.5,28.0,0.0,1.0,4.5,Tidak Sehat
+OREO SOFT CAKE,1 g,80.0,1.0,8.0,5.0,0.0,50.0,0.0,2.5,Kurang Sehat
+Koko krunch,1 g,110.0,2.0,23.0,1.0,9.0,0.0,1.0,2.0,Sehat
+Krupuk udang Ny. Siok (mentah),2 g,70.0,2.0,16.0,0.0,2.0,260.0,0.0,5.0,Tidak Sehat
+Cookies Oat krunch coklat gelap,2 g,120.0,2.0,18.0,4.5,6.0,0.0,2.0,1.5,Sehat
+Kacang tunis,3.20 g,351.0,12.2,72.9,1.2,0.0,1.0,29.5,0.5,Sehat
+Carica papaya,Tidak Diketahui,0.9,24.0,1.9,3.7,0.2,0.0,0.0,-1.0,Sehat
+Rica-rica taipa,1.40 g,49.0,1.6,10.0,0.3,0.0,426.0,0.0,2.5,Kurang Sehat
+Babi hutan masak rica,2.70 g,491.0,24.6,0.2,16.3,0.0,1415.0,0.0,4.0,Kurang Sehat
+Folabee rasa coklat,2 g,25.0,3.0,26.0,5.0,9.0,190.0,2.0,4.5,Tidak Sehat
+Pop Ice Rasa Cokelat,1 g,10.0,1.0,22.0,1.0,17.0,35.0,0.0,5.0,Tidak Sehat
+Matcha Tea Latte,6.50 g,190.0,6.5,31.5,4.0,30.0,0.0,0.0,3.0,Kurang Sehat
+Susu Slim dan fit coklat,5 g,200.0,15.0,30.0,3.0,12.0,0.0,5.0,3.0,Kurang Sehat
+Susu Slim dan fit vanila,5 g,200.0,15.0,30.0,2.5,13.0,0.0,5.0,3.0,Kurang Sehat
+Fitmee mie goreng Korea,3 g,150.0,1.0,29.0,4.0,6.0,400.0,3.0,4.5,Tidak Sehat
+Fitmee rasa soto,2 g,60.0,0.0,10.0,2.0,2.0,430.0,2.0,4.0,Kurang Sehat
+Terong asam,Tidak Diketahui,0.8,37.0,2.0,6.3,0.4,0.0,3.0,0.5,Sehat
+Lema / rebung asam,0.40 g,15.0,1.0,1.9,0.4,0.0,3.0,0.0,0.0,Sehat
+san remo pasta sauce spaghetti (mentah),3.80 g,457.0,15.0,90.0,2.5,3.1,0.0,3.8,3.0,Kurang Sehat
+Pasta La fonte spaghetti with mushroom sauce,3 g,340.0,8.0,60.0,4.0,7.0,0.0,3.0,3.0,Kurang Sehat
+Pasta La fonte spaghetti with chicken sauce,4 g,340.0,10.0,57.0,8.0,0.0,0.0,4.0,2.0,Sehat
+tini mini biti,1 g,60.0,1.0,8.0,2.5,0.0,140.0,0.0,2.5,Kurang Sehat
+Kacang atom,2.20 g,533.0,27.8,28.8,38.1,0.0,0.0,2.5,2.0,Sehat
+Tomat merah,Tidak Diketahui,0.6,24.0,1.3,4.7,0.5,0.0,10.0,-1.0,Sehat
+Tomat muda,Tidak Diketahui,2.0,24.0,2.0,3.3,0.7,0.0,10.0,1.5,Sehat
+Ikan Katombo asin,100 g,162.0,31.7,0.3,2.8,0.0,4393.0,0.0,2.5,Kurang Sehat
+Yogurt greek yummy strawberry,8 g,120.0,8.0,16.0,3.0,9.0,70.0,0.0,4.0,Kurang Sehat
+Mayumi saus creamy serbaguna rasa pedas (180 g),591 g,100.0,0.0,3.0,10.0,3.0,270.0,0.0,6.5,Tidak Sehat
+Yummy bites Originak,2 g,50.0,2.0,8.0,1.0,2.0,35.0,0.0,5.0,Tidak Sehat
+Soboro Bread,1 g,300.0,7.0,56.0,7.0,16.0,0.0,1.0,4.5,Tidak Sehat
+Beras siger,0.70 g,344.0,1.1,28.3,0.2,0.0,106.0,5.6,3.0,Kurang Sehat
+Doritos Nacho Cheese,2 g,100.0,2.0,12.0,5.0,0.0,125.0,0.0,2.5,Kurang Sehat
+Teh botol sosro tawar,0 g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sehat
+Keju Castello Brie,0 g,73.0,5.0,0.03,6.0,0.03,0.0,0.0,-1.0,Sehat
+Keju Castello camembert,5 g,73.0,5.0,0.03,6.0,0.03,0.0,0.0,-1.0,Sehat
+Diabetasol sweetener,0 g,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Sehat
+MILO cereal,2 g,110.0,2.0,23.0,1.0,9.0,0.0,2.0,2.0,Sehat
+Origo coffe cereal latte,6.80 g,238.0,6.8,38.69,6.0,17.39,0.0,0.0,3.0,Kurang Sehat
+Ayam brand chilli tuna,8 g,100.0,8.0,3.0,6.0,2.0,0.0,0.0,1.5,Sehat
+Baked Potato Chili'n cheese,8 g,460.0,19.0,71.0,11.0,7.0,0.0,8.0,4.5,Tidak Sehat
+Chili Cheese Fries ( 1 porsi),6 g,500.0,16.0,53.0,25.0,4.0,0.0,6.0,4.5,Tidak Sehat
+hilo teen,6 g,25.0,6.0,33.0,2.5,26.0,135.0,0.0,4.5,Tidak Sehat
+Gemez Enaak Snack Mi,2 g,40.0,2.0,13.0,4.0,0.0,240.0,0.0,2.5,Kurang Sehat
+Pankreas kambing (mentah),0 g,152.0,14.84,0.0,9.82,0.0,0.0,0.0,0.5,Sehat
+Domino Pizza Beef Pepperoni feast,2 g,370.0,16.0,36.0,17.0,3.0,890.0,2.0,7.0,Tidak Sehat
+Jasuke,Tidak Diketahui,3.22,86.0,3.22,19.02,1.18,0.0,0.0,3.0,Kurang Sehat
+TEH KOTAK JASMINE TEA,0 g,100.0,0.0,26.0,0.0,26.0,15.0,0.0,5.5,Tidak Sehat
+Sayur lilin-terubuk,1.40 g,36.0,2.7,4.8,0.7,0.0,30.0,1.4,1.5,Sehat
+Yupi Gummy Pizza,1 g,0.0,1.0,12.0,0.0,8.0,0.0,0.0,2.5,Kurang Sehat
+Labu waluh,Tidak Diketahui,1.0,32.0,1.1,6.6,0.1,0.0,1.0,0.5,Sehat
+Waluh balamak,1 g,45.0,0.8,8.1,0.9,0.0,61.0,7.9,1.5,Sehat
+Brongkos,2.40 g,141.0,15.3,12.6,3.3,0.0,0.0,1.0,-1.0,Sehat
+Kuaci Rebo salted caramel,1 g,50.0,2.0,1.0,4.0,0.0,90.0,1.0,1.5,Sehat
+Wajik,1.99 g,152.0,1.99,34.2,0.68,0.0,70.0,0.0,3.0,Kurang Sehat
+Lantar,Tidak Diketahui,0.8,34.0,2.2,5.5,0.3,0.0,3.0,-1.0,Sehat
+Lontar,Tidak Diketahui,0.4,27.0,0.4,6.0,0.2,0.0,0.0,-1.0,Sehat
+Tekokak,Tidak Diketahui,1.0,34.0,2.0,7.9,0.1,0.0,3.0,0.5,Sehat
+Tekokak kering,8.10 g,302.0,8.3,72.6,1.7,0.0,9.0,21.2,3.0,Kurang Sehat
+Ikan Papuyu bakar,3 g,152.0,17.6,6.7,6.1,0.0,320.0,0.0,1.5,Sehat
+san remo pasta sauce wholemeal (mentah),11 g,452.0,19.0,78.0,4.0,4.0,0.0,11.0,3.0,Kurang Sehat
+san remo pasta sauce spinach fettuccine(mentah),6 g,457.0,15.0,89.0,2.5,4.0,0.0,6.0,3.0,Kurang Sehat
+Ongol-ongol sagu,0.50 g,111.0,0.3,21.2,2.7,0.0,0.0,0.3,-1.0,Sehat
+Mangga golek,Tidak Diketahui,0.4,63.0,0.5,16.7,0.2,0.0,3.0,0.5,Sehat
+Indomie salted Egg,2 g,480.0,11.0,53.0,25.0,6.0,0.0,2.0,4.5,Tidak Sehat
+Sirup Sunquick Mango,0 g,45.0,0.0,10.0,0.0,9.0,0.0,0.0,2.5,Kurang Sehat
+Susu kental tak manis,1.50 g,138.0,7.0,9.9,7.9,0.0,140.0,0.0,3.0,Kurang Sehat
+Kucai,Tidak Diketahui,0.9,45.0,2.2,10.3,0.3,0.0,21.0,0.5,Sehat
+Biji wijen,17.73 g,573.0,17.73,23.45,49.67,0.0,0.0,0.0,2.0,Sehat
+Domino Pizza Extravaganza,2 g,390.0,17.0,38.0,18.0,3.0,970.0,2.0,7.0,Tidak Sehat
+Daun kacang panjang,Tidak Diketahui,1.1,30.0,3.1,5.8,0.3,0.0,7.0,-1.0,Sehat
+Kacang panjang,Tidak Diketahui,0.5,31.0,2.3,5.3,0.1,0.0,30.0,-1.0,Sehat
+Terung panjang,Tidak Diketahui,0.7,25.0,2.1,5.3,0.1,0.0,9.0,-1.0,Sehat
+Ubi jalar putih,Tidak Diketahui,0.8,88.0,0.4,20.6,0.4,0.0,2.0,0.5,Sehat
+Pork Belly,9.34 g,518.0,9.34,0.0,53.01,0.0,0.0,0.0,1.5,Sehat
+Nugget Ayam Akumo,13 g,340.0,13.0,30.0,19.0,0.0,610.0,0.0,4.5,Tidak Sehat
+NUtrijell Balanced Color Delima,1 g,0.0,0.0,3.0,0.0,1.0,15.0,1.0,4.0,Kurang Sehat
+Ellenka Fiber Creme,1 g,10.0,0.0,2.0,1.0,0.0,5.0,1.0,-1.0,Sehat
+Teh pucuk harum,0 g,140.0,0.0,36.0,0.0,36.0,0.0,0.0,3.0,Kurang Sehat
+Sambal cuk original cabe,4 g,160.0,1.0,9.0,13.0,3.0,0.0,4.0,4.0,Kurang Sehat
+Sambal cuk ikan roa asap,3 g,220.0,4.0,7.0,20.0,4.0,0.0,3.0,4.0,Kurang Sehat
+Ladaku Merica Bubuk,0 g,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,Sehat
+gerry salut malkist rasa chocolate,2 g,130.0,2.0,19.0,5.0,5.0,120.0,0.0,5.0,Tidak Sehat
+Lobster,1.88 g,77.0,16.52,0.0,0.75,0.0,423.0,0.0,1.5,Sehat
+Teh frestea,0 g,160.0,0.0,40.0,0.0,36.0,0.0,0.0,4.0,Kurang Sehat
+Baked lotus paste mooncake,1.34 g,191.0,2.78,25.38,8.66,0.0,0.0,1.34,2.0,Sehat
+Sushi hand roll unagi,1 g,152.0,9.0,14.0,6.0,1.0,0.0,1.0,1.5,Sehat
+Sushi hand roll shrimp,1 g,90.0,8.0,9.0,2.0,0.5,0.0,1.0,-1.0,Sehat
+Coklat Ritter Sport Whole Almonds,3 g,140.0,3.0,13.0,9.0,9.0,0.0,0.0,4.0,Kurang Sehat
+Daun paku,Tidak Diketahui,1.2,29.0,3.4,6.5,0.1,0.0,19.0,0.5,Sehat
+Ketimun krai,Tidak Diketahui,0.5,10.0,0.5,2.0,0.2,0.0,10.0,-1.0,Sehat
+Quaker 3 in 1,1 g,120.0,1.0,22.0,3.0,11.0,0.0,1.0,1.5,Sehat
+Heavenly Kitchen Thai Tea Latte,1 g,100.0,1.0,19.0,2.5,0.0,70.0,0.0,2.5,Kurang Sehat
+Milkita Assorted Milk Candy,0 g,15.0,0.0,14.0,1.5,9.0,5.0,0.0,2.5,Kurang Sehat
+Kundur,Tidak Diketahui,0.7,22.0,0.4,4.7,0.2,0.0,2.0,-1.0,Sehat
+Lempog durian,1.90 g,320.0,3.5,63.7,5.7,0.0,0.0,4.9,0.5,Sehat
+Saladstop Go Geisha,5.80 g,259.2,13.6,31.2,9.6,15.9,0.0,5.8,4.5,Tidak Sehat
+beng beng shake it,1 g,45.0,1.0,6.0,2.5,0.0,20.0,0.0,2.5,Kurang Sehat
+F1 Shake Mix,9 g,100.0,9.0,13.0,1.0,0.0,180.0,0.0,1.5,Sehat
+Tepung bumbu kobe kentucky super crispy,1 g,70.0,2.0,14.0,0.0,1.0,0.0,1.0,1.5,Sehat
+Tepung bumbu kobe bakwan & perkedel,2 g,70.0,2.0,15.0,0.0,1.0,0.0,2.0,1.5,Sehat
+Tepung bumbu kobe pisang goreng,2 g,70.0,1.0,16.0,0.0,2.0,0.0,2.0,1.5,Sehat
+Tepung bumbu kobe bumbu kalasan,1 g,70.0,0.0,15.0,0.0,3.0,0.0,1.0,1.5,Sehat
+Tepung bumbu kobe tempe goreng,1 g,70.0,2.0,14.0,0.0,1.0,0.0,1.0,1.5,Sehat
+Haverjoy Havermix Instant Oats & Choco Chips,4 g,25.0,4.0,25.0,3.0,0.0,10.0,0.0,3.0,Kurang Sehat
+Haverjoy Rolled Oats,4 g,140.0,4.0,24.0,3.5,0.0,0.0,0.0,0.5,Sehat
+Susu kedelai V Soy,8 g,188.0,8.0,21.0,8.5,15.0,0.0,0.0,4.0,Kurang Sehat
+Soyjoy,5 g,150.0,5.0,12.0,9.0,7.0,0.0,5.0,3.0,Kurang Sehat
+Soylicious sweetened,7 g,70.0,7.0,6.0,3.5,0.0,0.0,0.0,-1.0,Sehat
+Keripik singkong bumbu,2.30 g,481.0,2.2,73.6,19.7,0.0,0.0,1.6,2.0,Sehat
+Serimping talas kebumen,2.30 g,478.0,2.5,69.2,21.2,0.0,0.0,1.7,2.0,Sehat
+Cadbury Dairy Milk Oreo,2 g,100.0,2.0,17.0,11.0,13.0,60.0,0.0,6.5,Tidak Sehat
+Top Avocado Coffee,1 g,90.0,1.0,15.0,3.0,10.0,25.0,0.0,5.0,Tidak Sehat
+Daun gunda serang,Tidak Diketahui,1.1,62.0,4.2,9.2,0.9,0.0,0.0,3.0,Kurang Sehat
+Anlene (cokelat),7 g,135.0,7.0,21.0,3.0,20.0,0.0,0.0,1.5,Sehat
+Energen sereal cokelat,1 g,130.0,1.0,23.0,3.5,17.0,0.0,1.0,2.0,Sehat
+Nutrive Benecol,0 g,60.0,1.0,9.0,2.0,4.0,0.0,0.0,2.5,Kurang Sehat
+Sale kesemek,1.80 g,296.0,1.1,71.4,0.6,0.0,0.0,0.0,1.5,Sehat
+buah pir / pear,83.96 g,57.0,0.36,15.23,0.14,0.0,1.0,3.1,-1.0,Sehat
+Ikan salmon,1.33 g,179.0,19.93,0.0,10.43,0.0,47.0,0.0,4.0,Kurang Sehat
+Indomie tengkleng,7 g,350.0,9.0,45.0,14.0,2.0,0.0,7.0,4.5,Tidak Sehat
+V-soy Multigrain,1.20 g,138.0,5.4,15.2,6.0,14.0,106.0,1.2,4.0,Kurang Sehat
+Jules drestrooper speculoos,3 g,545.0,3.0,53.0,35.0,41.0,600.0,0.0,8.0,Tidak Sehat
+Balingo,Tidak Diketahui,0.3,15.0,0.4,3.0,0.2,0.0,2.0,-1.0,Sehat
+Daun gunda bali,Tidak Diketahui,1.1,50.0,4.6,7.0,0.9,0.0,0.0,3.0,Kurang Sehat
+Kacang ranti polong,0.30 g,37.0,3.1,7.9,0.2,0.0,0.0,2.5,-1.0,Sehat
+Jambu biji putih tidak berbiji,0.60 g,61.0,0.9,15.4,0.3,0.0,20.0,4.5,1.5,Sehat
+Bluberry,7.50 g,317.0,2.5,80.0,2.5,0.0,0.0,7.5,0.5,Sehat
+Selai Smucker's Blueberry,0 g,50.0,0.0,13.0,0.0,12.0,0.0,0.0,2.5,Kurang Sehat
+Gilus mix aroma vanila (isi 10 sachet),1 g,90.0,1.0,21.0,0.5,17.0,0.0,0.0,2.5,Kurang Sehat
+Nagasari,2.09 g,154.0,2.09,30.25,2.87,0.0,91.0,0.0,3.0,Kurang Sehat
+Petis ikan,3 g,165.0,20.0,20.8,0.2,0.0,0.0,0.0,0.0,Sehat
+Saus Curry,1 g,70.0,1.0,7.0,4.5,5.0,0.0,1.0,1.5,Sehat
+Bihunku white curry,2 g,220.0,2.0,38.0,6.0,4.0,0.0,0.0,4.0,Kurang Sehat
+Steamed Beancurd Sheet Roll,6.20 g,150.0,6.2,3.0,12.0,0.0,250.0,0.0,3.0,Kurang Sehat
+Froot Loops,3 g,120.0,2.0,26.0,0.5,11.0,0.0,3.0,2.0,Sehat
+Mcfloat,1.04 g,107.0,1.04,1.36,11.03,0.0,25.0,0.0,4.0,Kurang Sehat
+Daun mangkokan,Tidak Diketahui,2.2,57.0,3.7,11.8,0.3,0.0,0.0,0.5,Sehat
+Kokosan,Tidak Diketahui,0.2,86.0,1.6,13.0,0.2,0.0,2.0,0.5,Sehat
+Coolant minuman,0 g,100.0,0.0,25.0,0.0,23.0,0.0,0.0,3.0,Kurang Sehat
+Etira singkong stik,3 g,170.0,1.0,40.0,1.0,0.0,0.0,3.0,0.5,Sehat
+Kacang merah kering,2.90 g,314.0,22.1,56.2,1.1,0.0,11.0,4.0,3.0,Kurang Sehat
+Sariroti roti sobek coklat,2 g,370.0,7.0,56.0,13.0,17.0,250.0,2.0,7.0,Tidak Sehat
+Roti Mr.Bread sobek keju,5 g,200.0,5.0,33.0,6.0,0.0,250.0,0.0,3.0,Kurang Sehat
+Roti Sobek Cokelat Keju Sari Roti,6 g,350.0,9.0,51.0,12.0,16.0,500.0,6.0,7.0,Tidak Sehat
+YUPI BOLICIOUS VERY STRAWBERRY,1 g,50.0,1.0,12.0,0.0,0.0,5.0,0.0,0.0,Sehat
+Yupi Fruit Bites,1 g,0.0,1.0,12.0,0.0,6.0,0.0,0.0,2.5,Kurang Sehat
+chicken nugget,15.58 g,297.0,15.58,16.32,18.82,0.0,574.0,0.0,4.0,Kurang Sehat
+belfoods chicken Nugget crunch,15 g,290.0,15.0,15.0,19.0,0.0,460.0,0.0,4.0,Kurang Sehat
+Champ Combination Chicken Nugget,12 g,90.0,12.0,8.0,20.0,0.0,720.0,0.0,3.0,Kurang Sehat
+Selada,Tidak Diketahui,0.9,18.0,1.2,2.9,0.2,0.0,19.0,-1.0,Sehat
+Selada rebus,0.70 g,19.0,2.7,2.9,0.2,0.0,24.0,0.7,1.5,Sehat
+Daun lobak,Tidak Diketahui,1.4,30.0,2.3,5.8,0.4,0.0,16.0,-1.0,Sehat
+Swallow Globe Agar Agar Bubuk Vanilla,0 g,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,Sehat
+susu anlene gold plus Hi-Calsium,6 g,10.0,6.0,20.0,1.0,0.0,90.0,0.0,1.5,Sehat
+A&W,0 g,170.0,0.0,43.0,0.0,43.0,0.0,0.0,4.0,Kurang Sehat
+A&W burger mozza,2 g,550.0,25.0,43.0,33.0,12.0,0.0,2.0,4.5,Tidak Sehat
+A&W Burger cheeseburger,1 g,398.0,15.0,39.0,21.0,9.0,0.0,1.0,4.5,Tidak Sehat
+V-soy Soya bean Milk Low Sugar,2.70 g,56.0,2.7,5.2,2.7,2.2,0.0,0.0,2.5,Kurang Sehat
+Prenagen Esensis,6 g,150.0,6.0,29.0,1.0,0.0,150.0,0.0,2.0,Sehat
+Kacang tanah rebus dengan kulit,2.30 g,360.0,13.5,12.8,31.2,0.0,32.0,0.0,4.0,Kurang Sehat
