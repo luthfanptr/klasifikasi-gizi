@@ -25,7 +25,7 @@ Tahapan umum yang dilakukan pada dataset meliputi:
 ## Cara Menjalankan Proyek
 1. Membuat virtual environment
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv\bin\activate  # linux/wsl
 ```
 
