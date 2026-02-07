@@ -6,9 +6,10 @@ Proyek ini bertujuan untuk **membandingkan kinerja tiga algoritma machine learni
 Studi ini berfokus pada bagaimana perbedaan karakteristik algoritma (tree-based ensemble dan distance-based) memengaruhi performa klasifikasi, baik dari sisi akurasi maupun metrik evaluasi lainnya.
 
 Proyek ini disusun sebagai bagian dari **proyek UAS mata kuliah Artificial Intelligence** yang bertujuan untuk memahami:
-- Proses klasifikasi data gizi
-- Perbandingan performa antar model
-- Alur kerja machine learning dari preprocessing hingga evaluasi
+- Mengolah dan mempersiapkan dataset nutrisi makanan untuk analisis machine learning
+- Mengembangkan model klasifikasi untuk mengidentifikasi pola nutrisi makanan
+- Membandingkan performa beberapa algoritma machine learning
+- Mengoptimalkan model untuk mendapatkan akurasi terbaik
 
 ---
 
